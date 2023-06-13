@@ -1,0 +1,16 @@
+DisplayName: AzureRMSProtectionServicePrincipal
+The following symmetric key was created as one was not supplied kgn8uQ61wQ24Y4qDvo6GNXiVjo4ysNfeLNbjekmwMwQ=
+
+
+DisplayName           : AzureRMSProtectionServicePrincipal
+ServicePrincipalNames : {ea6215d0-3f18-4a1d-84ad-fdbc4074835c}
+ObjectId              : b681ed44-27a2-488b-9796-208e41698ff1
+AppPrincipalId        : ea6215d0-3f18-4a1d-84ad-fdbc4074835c
+TrustedForDelegation  : False
+AccountEnabled        : True
+Addresses             : {}
+KeyType               : Symmetric
+KeyId                 : 7b4f2165-7c1b-48df-ae18-103f4c515252
+StartDate             : 7/24/2020 7:08:32 PM
+EndDate               : 7/24/2021 7:08:32 PM
+Usage                 : Verify

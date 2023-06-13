@@ -1,2 +1,1729 @@
 
 WPI.7z
+General_use_scripts/gmoran/tmp
+General_use_scripts/gmoran/Storage/AzureStorageUsage.ps1
+General_use_scripts/gmoran/SharePoint/Reset-SubFolderPermissions.ps1
+General_use_scripts/gmoran/OneDrive/put-PIIFile.ps1
+General_use_scripts/gmoran/General/Get-LoggedInUser.ps1
+General_use_scripts/Glipin/workstations/youdidntmove.ps1
+General_use_scripts/Glipin/workstations/yessssssss.ps1
+General_use_scripts/Glipin/workstations/workstation-cleanup.ps1
+General_use_scripts/Glipin/workstations/workflow-set-video.ps1
+General_use_scripts/Glipin/workstations/whatdude2.ps1
+General_use_scripts/Glipin/workstations/whatdude.ps1
+General_use_scripts/Glipin/workstations/wftest.ps1
+General_use_scripts/Glipin/workstations/weridbioscrap.txt
+General_use_scripts/Glipin/workstations/user-session-offfload.ps1
+General_use_scripts/Glipin/workstations/smash-dll.ps1
+General_use_scripts/Glipin/workstations/smash-dll.bat
+General_use_scripts/Glipin/workstations/serial-check.ps1
+General_use_scripts/Glipin/workstations/repair-azure-device-ownership.ps1
+General_use_scripts/Glipin/workstations/renamer.ps1
+General_use_scripts/Glipin/workstations/rebooter2.ps1
+General_use_scripts/Glipin/workstations/reboot-fuller.ps1
+General_use_scripts/Glipin/workstations/put-in-bitlocker-group.ps1
+General_use_scripts/Glipin/workstations/printer-ricoh-choas.ps1
+General_use_scripts/Glipin/workstations/print.bat
+General_use_scripts/Glipin/workstations/powershell-delprof.ps1
+General_use_scripts/Glipin/workstations/parallel-restart.ps1
+General_use_scripts/Glipin/workstations/OUup.ps1
+General_use_scripts/Glipin/workstations/OUup-txt.ps1
+General_use_scripts/Glipin/workstations/old-cert-cleanup.ps1
+General_use_scripts/Glipin/workstations/numlock-on.ps1
+General_use_scripts/Glipin/workstations/nano-acl.ps1
+General_use_scripts/Glipin/workstations/movestale.ps1
+General_use_scripts/Glipin/workstations/move-machines.ps1
+General_use_scripts/Glipin/workstations/makin-laptops.ps1
+General_use_scripts/Glipin/workstations/makecomplikecomp.ps1
+General_use_scripts/Glipin/workstations/locker-me-bits.ps1
+General_use_scripts/Glipin/workstations/local-disk-count.ps1
+General_use_scripts/Glipin/workstations/listinglocaluseradmin.ps1
+General_use_scripts/Glipin/workstations/listingjunk.ps1
+General_use_scripts/Glipin/workstations/lab-fixing/Untitled-14.txt
+General_use_scripts/Glipin/workstations/lab-fixing/setinit-renew-sas.bat
+General_use_scripts/Glipin/workstations/lab-fixing/renewSAS.ps1
+General_use_scripts/Glipin/workstations/lab-fixing/no-bowler.bat
+General_use_scripts/Glipin/workstations/lab-fixing/labfixing-ccs.ps1
+General_use_scripts/Glipin/workstations/lab-fixing/if-code-add-pfio.bat
+General_use_scripts/Glipin/workstations/lab-fixing/copy-files-to-OU.ps1
+General_use_scripts/Glipin/workstations/lab-fixing/CHECKAK113.PS1
+General_use_scripts/Glipin/workstations/lab-fixing/CHECKAK.PS1
+General_use_scripts/Glipin/workstations/junk.ps1
+General_use_scripts/Glipin/workstations/helpinjmac.ps1
+General_use_scripts/Glipin/workstations/gonnacreate-rbe-if.ps1
+General_use_scripts/Glipin/workstations/glmmhosts.txt
+General_use_scripts/Glipin/workstations/gettinlists.ps1
+General_use_scripts/Glipin/workstations/get-old-then-disable.ps1
+General_use_scripts/Glipin/workstations/get-certs.ps1
+General_use_scripts/Glipin/workstations/get-bitlock-status.ps1
+General_use_scripts/Glipin/workstations/function-delete-stale.ps1
+General_use_scripts/Glipin/workstations/FUNCricoh-cleanup.ps1
+General_use_scripts/Glipin/workstations/FUNCcreate-lists-disableSERVER.ps1
+General_use_scripts/Glipin/workstations/FUNCcreate-lists-disable.ps1
+General_use_scripts/Glipin/workstations/FUNCadd-printers.ps1
+General_use_scripts/Glipin/workstations/foreach-getdn.ps1
+General_use_scripts/Glipin/workstations/findingjunk.ps1
+General_use_scripts/Glipin/workstations/find-enabled-disabled.ps1
+General_use_scripts/Glipin/workstations/find-empty-machine-OU.ps1
+General_use_scripts/Glipin/workstations/enabled.ps1
+General_use_scripts/Glipin/workstations/duplicate-launcher.bat
+General_use_scripts/Glipin/workstations/duplicate-count.ps1
+General_use_scripts/Glipin/workstations/domaindrop.bat
+General_use_scripts/Glipin/workstations/disable-vintage-workstations.ps1
+General_use_scripts/Glipin/workstations/disable-relocate-fromfile.ps1
+General_use_scripts/Glipin/workstations/disable-intel630.ps1
+General_use_scripts/Glipin/workstations/deleters.ps1
+General_use_scripts/Glipin/workstations/cleanup.ps1
+General_use_scripts/Glipin/workstations/clean-up-dbutilsys.ps1
+General_use_scripts/Glipin/workstations/azcleanup.ps1
+General_use_scripts/Glipin/workstations/amidelllaptop.ps1
+General_use_scripts/Glipin/workstations/adobessss.ps1
+General_use_scripts/Glipin/workstations/add-workstations.ps1
+General_use_scripts/Glipin/workstations/201819wintslist.txt
+General_use_scripts/Glipin/workstations/1920wintslist.txt
+General_use_scripts/Glipin/workday-api/Student_Core.wsdl
+General_use_scripts/Glipin/touch
+General_use_scripts/Glipin/server-mgmt/restart-dudes.ps1
+General_use_scripts/Glipin/server-mgmt/parsinjunk.ps1
+General_use_scripts/Glipin/server-mgmt/lenel-api.ps1
+General_use_scripts/Glipin/server-mgmt/GOOD-tscrupt.ps1
+General_use_scripts/Glipin/server-mgmt/GOOD-2122-tsmanager.ps1
+General_use_scripts/Glipin/server-mgmt/gompeithere.ps1
+General_use_scripts/Glipin/server-mgmt/get-uptime-fromlist.ps1
+General_use_scripts/Glipin/server-mgmt/function New-StandAloneTerminalServer.ps1
+General_use_scripts/Glipin/server-mgmt/clean-chris.ps1
+General_use_scripts/Glipin/server-mgmt/buildts.ps1
+General_use_scripts/Glipin/server-mgmt/bak/manageTS-cpuload.ps1
+General_use_scripts/Glipin/server-mgmt/bak/manageTS-cpuload-logs.ps1
+General_use_scripts/Glipin/server-mgmt/archive/workflow-tsbuddy.ps1
+General_use_scripts/Glipin/server-mgmt/archive/Untitled-3.txt
+General_use_scripts/Glipin/server-mgmt/archive/Untitled-10.txt
+General_use_scripts/Glipin/server-mgmt/archive/ts-semi-config.ps1
+General_use_scripts/Glipin/server-mgmt/archive/splunk-fwd.txt
+General_use_scripts/Glipin/server-mgmt/archive/remove-deadbeats.ps1
+General_use_scripts/Glipin/server-mgmt/archive/manage-tsCPU-load.ps1
+General_use_scripts/Glipin/server-mgmt/archive/manage-ts.ps1
+General_use_scripts/Glipin/server-mgmt/archive/func-manageTS-cpuCLEAN2.ps1
+General_use_scripts/Glipin/server-mgmt/archive/func-manageTS-cpuCLEAN.ps1
+General_use_scripts/Glipin/server-mgmt/archive/func-manageTS-cpuCLEAN-final.ps1
+General_use_scripts/Glipin/server-mgmt/archive/func-manageTS-cpu.ps1
+General_use_scripts/Glipin/server-mgmt/archive/Enter-PSSession aadc-utl-p-w01.txt
+General_use_scripts/Glipin/server-mgmt/archive/cpu-logcleanup.ps1
+General_use_scripts/Glipin/SCCM/validate-hostname.ps1
+General_use_scripts/Glipin/SCCM/Untifsafsdafd.ps1
+General_use_scripts/Glipin/SCCM/uninstall-finder.ps1
+General_use_scripts/Glipin/SCCM/table.ps1
+General_use_scripts/Glipin/SCCM/splatter-me-apps.ps1
+General_use_scripts/Glipin/SCCM/sloppy-deploy-fromlist.ps1
+General_use_scripts/Glipin/SCCM/scheduledcu.ps1
+General_use_scripts/Glipin/SCCM/SCCM-COPY-DEPLOYMENTS-TO-TARGET.ps1
+General_use_scripts/Glipin/SCCM/run-it.bat
+General_use_scripts/Glipin/SCCM/restarter.ps1
+General_use_scripts/Glipin/SCCM/remove-deployments-fromlist.ps1
+General_use_scripts/Glipin/SCCM/pileoffunctions.ps1
+General_use_scripts/Glipin/SCCM/photocopy.ps1
+General_use_scripts/Glipin/SCCM/note.html
+General_use_scripts/Glipin/SCCM/lusers.ps1
+General_use_scripts/Glipin/SCCM/jerkfiles.ps1
+General_use_scripts/Glipin/SCCM/gethosts-putincollection2.ps1
+General_use_scripts/Glipin/SCCM/gethosts-putincollection.ps1
+General_use_scripts/Glipin/SCCM/FUNCgethosts-putincollection.ps1
+General_use_scripts/Glipin/SCCM/FUNCclean-up-deployments.ps1
+General_use_scripts/Glipin/SCCM/FUNCappsTOtargetsRIGHT.ps1
+General_use_scripts/Glipin/SCCM/FUNCappsTOtargets.ps1
+General_use_scripts/Glipin/SCCM/FUNC-SCCM-DEPLOY-APP-TO-TARGETs.ps1
+General_use_scripts/Glipin/SCCM/FUNC-cleanups.ps1
+General_use_scripts/Glipin/SCCM/FUNC-APPDEPP.ps1
+General_use_scripts/Glipin/SCCM/fixed-disk-count-size.ps1
+General_use_scripts/Glipin/SCCM/ethernet-required.ps1
+General_use_scripts/Glipin/SCCM/driver-mgmt/drivers-distribute-update.ps1
+General_use_scripts/Glipin/SCCM/driver-mgmt/driveme.ps1
+General_use_scripts/Glipin/SCCM/deployin.ps1
+General_use_scripts/Glipin/SCCM/dell-warranty-import.ps1
+General_use_scripts/Glipin/SCCM/dell-warranty-exportCSV.ps1
+General_use_scripts/Glipin/SCCM/delete-crappy-old-applications.ps1
+General_use_scripts/Glipin/SCCM/dcu-task-config.bat
+General_use_scripts/Glipin/SCCM/connect-to-sccm.ps1
+General_use_scripts/Glipin/SCCM/collections-remove-direct-device.ps1
+General_use_scripts/Glipin/SCCM/cmschedulesyntax.ps1
+General_use_scripts/Glipin/SCCM/cleaningupcrap.ps1
+General_use_scripts/Glipin/SCCM/clean-up-deployments.ps1
+General_use_scripts/Glipin/SCCM/clean-up-accountvbe.ps1
+General_use_scripts/Glipin/SCCM/clean-apps.ps1
+General_use_scripts/Glipin/SCCM/ARC-usres.ps1
+General_use_scripts/Glipin/SCCM/applist.txt
+General_use_scripts/Glipin/SCCM/app-installers/xilinx-drivers.bat
+General_use_scripts/Glipin/SCCM/app-installers/permissionmod-bluehill.ps1
+General_use_scripts/Glipin/SCCM/app-installers/OLDVPFE-69TRAS.lic.txt
+General_use_scripts/Glipin/SCCM/app-installers/no-more-181jre.bat
+General_use_scripts/Glipin/SCCM/app-installers/install.cmd
+General_use_scripts/Glipin/SCCM/app-installers/install-topspin.bat
+General_use_scripts/Glipin/SCCM/app-installers/install-office.bat
+General_use_scripts/Glipin/SCCM/app-installers/install-clion.bat
+General_use_scripts/Glipin/SCCM/app-installers/install-backup.cmd
+General_use_scripts/Glipin/SCCM/app-installers/esprit-setup-admin.ps1
+General_use_scripts/Glipin/SCCM/app-installers/driverupdate.bat
+General_use_scripts/Glipin/SCCM/app-installers/dna-master-of-puppets.bat
+General_use_scripts/Glipin/PROPERSERVICE.zip
+General_use_scripts/Glipin/linux-apps/listofrbeappswithotherjunk.yml
+General_use_scripts/Glipin/linux-apps/frame-rbe-apps.sh
+General_use_scripts/Glipin/linux-apps/frame-rbe-apps
+General_use_scripts/Glipin/linux-apps/apps.list
+General_use_scripts/Glipin/junk-drawer/update-appspace.ps1
+General_use_scripts/Glipin/junk-drawer/ts-scrubber.ps1
+General_use_scripts/Glipin/junk-drawer/teeeces2.ps1
+General_use_scripts/Glipin/junk-drawer/shutoff-printers.ps1
+General_use_scripts/Glipin/junk-drawer/set-keys.ps1
+General_use_scripts/Glipin/junk-drawer/parsindisks.ps1
+General_use_scripts/Glipin/junk-drawer/parsefsutil.ps1
+General_use_scripts/Glipin/junk-drawer/list-expiringapps.ps1
+General_use_scripts/Glipin/junk-drawer/list-expiringapps
+General_use_scripts/Glipin/junk-drawer/gimmersat.ps1
+General_use_scripts/Glipin/junk-drawer/get-deecees.ps1
+General_use_scripts/Glipin/junk-drawer/get-azure-apps-count.ps1
+General_use_scripts/Glipin/junk-drawer/fucheck.ps1
+General_use_scripts/Glipin/junk-drawer/fsu.ps1
+General_use_scripts/Glipin/junk-drawer/findfiles.ps1
+General_use_scripts/Glipin/junk-drawer/EmailExpirations-glipin.ps1
+General_use_scripts/Glipin/junk-drawer/emailcrap.ps1
+General_use_scripts/Glipin/junk-drawer/delete-the-prof-if-no-disk.ps1
+General_use_scripts/Glipin/junk-drawer/dates.ps1
+General_use_scripts/Glipin/junk-drawer/Christine Expired.ps1
+General_use_scripts/Glipin/junk-drawer/Christine Expired - edit.ps1
+General_use_scripts/Glipin/junk-drawer/check-status-spooler.ps1
+General_use_scripts/Glipin/junk-drawer/arethesereal.ps1
+General_use_scripts/Glipin/gui/works2.ps1
+General_use_scripts/Glipin/gui/works.ps1
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/tools/install.ps1
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/Newtonsoft.Json.8.0.3.nupkg
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net45/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net45/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net40/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net40/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net35/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net35/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net20/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net20/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/Service1.resx
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/Service1.Designer.cs
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/Service1.cs
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/Properties/AssemblyInfo.cs
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/Program.cs
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/packages.config
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.pdb
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.FusionTokenRequest.resources
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.exe.manifest
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csproj.SuggestedBindingRedirects.cache
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csproj.GenerateResource.cache
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csproj.FileListAbsolute.txt
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csproj.CoreCompileInputs.cache
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csproj.CopyComplete
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csproj.AssemblyReference.cache
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.application
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/FusionCheckIn_TemporaryKey.pfx
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/FusionCheckIn.csproj.user
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/FusionCheckIn.csproj
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/bin/Debug/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/bin/Debug/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.pdb
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.exe.manifest
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.exe.config
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.application
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/bin/Debug/app.publish/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn/App.config
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/FusionCheckIn.sln
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/.vscode/tasks.json
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/.vs/FusionCheckIn/v17/.suo
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/PROPERSERVICE/.vs/FusionCheckIn/project-colors.json
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/FusionCheckInService.log
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/FusionCheckIn.pdb
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/FusionCheckIn.exe.manifest
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/FusionCheckIn.exe.config
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/FusionCheckIn.application
+General_use_scripts/Glipin/fusion-redo/TODAY-COOLNESS/FUSIONCHECKINSERVICE-NOPE/app.publish/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/send-tcp-message.ps1
+General_use_scripts/Glipin/fusion-redo/rc-redo-sql.ps1
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/tools/install.ps1
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/Newtonsoft.Json.8.0.3.nupkg
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/portable-net45+wp80+win8+wpa81+dnxcore50/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net45/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net45/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net40/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net40/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net35/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net35/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net20/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/packages/Newtonsoft.Json.8.0.3/lib/net20/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/Service1.resx
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/Service1.Designer.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/Service1.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/Properties/AssemblyInfo.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/Program.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/packages.config
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/FusionCheckIn.pdb
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/FusionCheckIn.FusionTokenRequest.resources
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/FusionCheckIn.exe.manifest
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/FusionCheckIn.csprojResolveAssemblyReference.cache
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/FusionCheckIn.csproj.GenerateResource.Cache
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/FusionCheckIn.csproj.FileListAbsolute.txt
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/FusionCheckIn.application
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Release/DesignTimeResolveAssemblyReferences.cache
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.pdb
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.FusionTokenRequest.resources
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.exe.manifest
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csprojResolveAssemblyReference.cache
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csproj.GenerateResource.Cache
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.csproj.FileListAbsolute.txt
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/FusionCheckIn.application
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/FusionCheckIn_TemporaryKey.pfx
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/FusionCheckIn.csproj.user
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/FusionCheckIn.csproj
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.vshost.exe.manifest
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.vshost.exe.config
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.vshost.exe
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.vshost.application
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.pdb
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.exe.manifest
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.exe.config
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/FusionCheckIn.application
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Release/app.publish/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/Newtonsoft.Json.xml
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.vshost.exe.manifest
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.vshost.exe.config
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.vshost.exe
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.vshost.application
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.pdb
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.exe.manifest
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.exe.config
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/FusionCheckIn.application
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/bin/Debug/app.publish/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn/App.config
+General_use_scripts/Glipin/fusion-redo/PROPERSERVICE/FusionCheckIn.sln
+General_use_scripts/Glipin/fusion-redo/import-buddy.ps1
+General_use_scripts/Glipin/fusion-redo/guts/FusionCheckIn.exe.config.test
+General_use_scripts/Glipin/fusion-redo/guts/FusionCheckIn.exe.config.prod
+General_use_scripts/Glipin/fusion-redo/guts/FusionCheckIn.exe.config
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/Newtonsoft.Json.dll
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/install service.txt
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionServiceRestart.log
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckInService.zip
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckInService.log.old6
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckInService.log.old5
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckInService.log.old4
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckInService.log.old3
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckInService.log.old2
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckInService.log.old
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckInService.log
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckIn.exe.config.test
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckIn.exe.config.prod
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckIn.exe.config
+General_use_scripts/Glipin/fusion-redo/FusionCheckInService/FusionCheckIn.exe
+General_use_scripts/Glipin/fusion-redo/fusionapicall.ps1
+General_use_scripts/Glipin/fusion-redo/fusionapicall-120821.ps1
+General_use_scripts/Glipin/fusion-redo/fusionapicall-0928.ps1
+General_use_scripts/Glipin/fusion-redo/function get-uzergroups {.ps1
+General_use_scripts/Glipin/fusion-redo/function get-openstationnearby {.ps1
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/third/uuid.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/third/jquery.signalR-2.2.0.min.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/third/jquery-ui.custom.min.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/third/jquery-1.6.4.min.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/third/handlebars.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/third/handlebars-LICENSE.txt
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/third/date.format.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/app/hubs.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/app/handlebars-helpers.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/app/app_signalr.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/js/app/app.js
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/index.html
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/img/header-background.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/img/dropdown-right.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/img/dropdown-down.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/jquery-ui-1.8.16.custom.css
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-icons_ffffff_256x240.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-icons_ffd27a_256x240.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-icons_ef8c08_256x240.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-icons_228ef1_256x240.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-icons_222222_256x240.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+General_use_scripts/Glipin/fusion-redo/Event Subscriber/css/application.css
+General_use_scripts/Glipin/fusion-redo/C\#/ViewCameras/ViewCamerasSample.csproj
+General_use_scripts/Glipin/fusion-redo/C\#/ViewCameras/ViewCameras.cs
+General_use_scripts/Glipin/fusion-redo/C\#/ViewCameras/AssemblyInfo.cs
+General_use_scripts/Glipin/fusion-redo/C\#/SendAcknowledge/SendAcknowledgeSample.csproj
+General_use_scripts/Glipin/fusion-redo/C\#/SendAcknowledge/SendAcknowledge.cs
+General_use_scripts/Glipin/fusion-redo/C\#/SendAcknowledge/AssemblyInfo.cs
+General_use_scripts/Glipin/fusion-redo/C\#/GetLoggedEvents/GetLoggedEventsSample.csproj
+General_use_scripts/Glipin/fusion-redo/C\#/GetLoggedEvents/GetLoggedEvents.cs
+General_use_scripts/Glipin/fusion-redo/C\#/GetLoggedEvents/AssemblyInfo.cs
+General_use_scripts/Glipin/fusion-redo/C\#/AddMultimedia/AssemblyInfo.cs
+General_use_scripts/Glipin/fusion-redo/C\#/AddMultimedia/App.ico
+General_use_scripts/Glipin/fusion-redo/C\#/AddMultimedia/AddPhoto.cs
+General_use_scripts/Glipin/fusion-redo/C\#/AddMultimedia/AddMultimediaObjectSample.csproj.user
+General_use_scripts/Glipin/fusion-redo/C\#/AddMultimedia/AddMultimediaObjectSample.csproj
+General_use_scripts/Glipin/fusion-redo/C\#/AddBadge/AssemblyInfo.cs
+General_use_scripts/Glipin/fusion-redo/C\#/AddBadge/App.ico
+General_use_scripts/Glipin/fusion-redo/C\#/AddBadge/AddBadgeSample.csproj.user
+General_use_scripts/Glipin/fusion-redo/C\#/AddBadge/AddBadgeSample.csproj
+General_use_scripts/Glipin/fusion-redo/C\#/AddBadge/AddBadge.cs
+General_use_scripts/Glipin/fusion-redo/api-redo.ps1
+General_use_scripts/Glipin/fusion-redo/api-redo-sql.ps1
+General_use_scripts/Glipin/fusion-redo/092921/FusionCheckIn.exe.config
+General_use_scripts/Glipin/frame-api/testingtable.ps1
+General_use_scripts/Glipin/frame-api/set-test-frame-api-sig-capacity.py
+General_use_scripts/Glipin/frame-api/getcapacitycrap.ps1
+General_use_scripts/Glipin/frame-api/get-test-frame-api-sig.py
+General_use_scripts/Glipin/frame-api/functionset-FDE.ps1
+General_use_scripts/Glipin/frame-api/frame-concurrent-alert.ps1
+General_use_scripts/Glipin/frame-api/frame-api-powershell.ps1
+General_use_scripts/Glipin/frame-api/frame-api-powershell-PROD.ps1
+General_use_scripts/Glipin/frame-api/frame-api-powershell-PROD-GETACTIVESESH.ps1
+General_use_scripts/Glipin/frame-api/frame-api-powershell
+General_use_scripts/Glipin/frame-api/frame-api-POST-PROD.ps1
+General_use_scripts/Glipin/frame-api/frame-api-POST-powershell.ps1
+General_use_scripts/Glipin/frame-api/frame-api-POST-powershell-checking.ps1
+General_use_scripts/Glipin/accounts/whytho.ps1
+General_use_scripts/Glipin/accounts/whatever.ps1
+General_use_scripts/Glipin/accounts/whatever-workday.ps1
+General_use_scripts/Glipin/accounts/teeces.ps1
+General_use_scripts/Glipin/accounts/teams.ps1
+General_use_scripts/Glipin/accounts/sync_ugroups.ps1
+General_use_scripts/Glipin/accounts/set-file-perms.ps1
+General_use_scripts/Glipin/accounts/rollinrollinrollinrollin.ps1
+General_use_scripts/Glipin/accounts/remove-me-fromgroups.ps1
+General_use_scripts/Glipin/accounts/remove-AZguest-accounts.ps1
+General_use_scripts/Glipin/accounts/put-me-ingroups.ps1
+General_use_scripts/Glipin/accounts/Purge-BadMail.ps1
+General_use_scripts/Glipin/accounts/populate-frame-access.ps1
+General_use_scripts/Glipin/accounts/populate-frame-access-AZURED.ps1
+General_use_scripts/Glipin/accounts/peepsfromjamf.ps1
+General_use_scripts/Glipin/accounts/peeps.ps1
+General_use_scripts/Glipin/accounts/LDAP-SEARCHIN.ps1
+General_use_scripts/Glipin/accounts/groupsnippet.ps1
+General_use_scripts/Glipin/accounts/graphAPI/WORKINGREQUEST2-list-risky-user.ps1
+General_use_scripts/Glipin/accounts/graphAPI/WORKINGREQUEST-list-risky-user.ps1
+General_use_scripts/Glipin/accounts/graphAPI/risky-user.ps1
+General_use_scripts/Glipin/accounts/graphAPI/listing-risky-user.ps1
+General_use_scripts/Glipin/accounts/graphAPI/list-risky-user.ps1
+General_use_scripts/Glipin/accounts/Get-LockedOutLocation.ps1
+General_use_scripts/Glipin/accounts/function-setlegacygroups.ps1
+General_use_scripts/Glipin/accounts/func-set-wpiAADsync.ps1
+General_use_scripts/Glipin/accounts/fun-foreach-userSsetperms.ps1
+General_use_scripts/Glipin/accounts/foreachdevice-setperms-azure-lazy.ps1
+General_use_scripts/Glipin/accounts/foreach.ps1
+General_use_scripts/Glipin/accounts/foreach-userSsetperms.ps1
+General_use_scripts/Glipin/accounts/foreach-usersetperms.ps1
+General_use_scripts/Glipin/accounts/foreach-usersetexp.ps1
+General_use_scripts/Glipin/accounts/foreach-setperms-azure.ps1
+General_use_scripts/Glipin/accounts/foreach-setperms-azure-lazy.ps1
+General_use_scripts/Glipin/accounts/find-a-phone.ps1
+General_use_scripts/Glipin/accounts/disable-oldies.ps1
+General_use_scripts/Glipin/accounts/countpeeps.ps1
+General_use_scripts/Glipin/accounts/cooldudes.ps1
+General_use_scripts/Glipin/accounts/cleanup.ps1
+General_use_scripts/Glipin/accounts/build-vpn-users.ps1
+General_use_scripts/Glipin/accounts/betterbitlocker.ps1
+General_use_scripts/Glipin/accounts/AdobeUserSync/Logfiles/ADGroupPopulate.log
+General_use_scripts/Glipin/accounts/AdobeUserSync/App/remove-disabled-user.ps1
+General_use_scripts/Glipin/accounts/AdobeUserSync/App/reconcile-ad-adobegroups.ps1
+General_use_scripts/Glipin/accounts/AdobeUserSync/App/COUNT-ad-adobegroups.ps1
+General_use_scripts/func_Parse-WindowsFirewallLog.ps1
+General_use_scripts/func_Get-LastBootUpTime.ps1
+General_use_scripts/func_Get-AutoStartServices.ps1
+General_use_scripts/func_Copy-SQLDatabase.ps1
+General_use_scripts/func_Check-DiskSpace.ps1
+General_use_scripts/func_Add-LocalGroupMember.ps1
+General_use_scripts/CIDORR/.gitkeep
+General_use_scripts/Antonino/winlogbeat/wpi-install-service-winlogbeat.ps1
+General_use_scripts/Antonino/VMware/Get-poweredOffVmwareVMs.ps1
+General_use_scripts/Antonino/VMware/Get-oldVmwareSnapshots.ps1
+General_use_scripts/Antonino/VMware/get-HotAddStatus.ps1
+General_use_scripts/Antonino/VMware/Disable-VMware-DRS-Rules.ps1
+General_use_scripts/Antonino/VMware/check-vmwaretools.ps1
+General_use_scripts/Antonino/sftp.ps1
+General_use_scripts/Antonino/SFTP-task.ps1
+General_use_scripts/Antonino/powerfaids/Refresh_PowerFAIDS_DB.ps1
+General_use_scripts/Antonino/powerfaids/Manual_Refresh_PowerFAIDSDev_DB.ps1
+General_use_scripts/Antonino/powerfaids/func_Copy-SQLDatabase.ps1
+General_use_scripts/Antonino/notes_SQL_Query_Oraphaned_Users.txt
+General_use_scripts/Antonino/log4j_cleanup/Remove-JndiLookup.ps1
+General_use_scripts/Antonino/Get-ServerInfo.ps1
+General_use_scripts/Antonino/Get-AllSQLServers.ps1
+General_use_scripts/Antonino/Get-AllSQLServers+CPUCores.ps1
+General_use_scripts/Antonino/func_Restart-Service.ps1
+General_use_scripts/Antonino/func_New-StandAloneTerminalServer.ps1
+General_use_scripts/Antonino/func_Get-WindowsFirewallLogs.ps1
+General_use_scripts/Antonino/func_Extend-Disk.ps1
+General_use_scripts/Antonino/DNS_Sweep.ps1
+General_use_scripts/Antonino/deploy-openLCA.ps1
+General_use_scripts/Antonino/certbot/func_Get-CertbotCertificateLocalTerminalServer.ps1
+General_use_scripts/Antonino/certbot/func_Get-CertbotCertificate4IIS.ps1
+General_use_scripts/Antonino/certbot/func_Get-CertbotCertificate.ps1
+General_use_scripts/Antonino/certbot/func_certbotRenew4RDSH.ps1
+General_use_scripts/Antonino/certbot/func_certbotRenew4iis.ps1
+General_use_scripts/Antonino/certbot/func_certbotRenew.ps1
+General_use_scripts/Antonino/certbot/certbot_install.ps1
+General_use_scripts/Antonino/backupDBs.ps1
+General_use_scripts/Antonino/Add-SNMPService.ps1
+General_use_scripts/.vscode/launch.json
+General_use_scripts/Sgemme/Batch/Add_Remote_Printer.bat
+General_use_scripts/Sgemme/Batch/Browse_Printers.bat
+General_use_scripts/Sgemme/Batch/Clear_GPO_Cache.bat
+General_use_scripts/Sgemme/Batch/Copy_Winrator.bat
+General_use_scripts/Sgemme/Batch/Delete_Old_Scans.bat
+General_use_scripts/Sgemme/Batch/Fix_Matlab_License.bat
+General_use_scripts/Sgemme/Batch/Fix_Slow_Windows_Shares.bat
+General_use_scripts/Sgemme/Batch/Fix_Winrator.bat
+General_use_scripts/Sgemme/Batch/Get_Hostname.bat
+General_use_scripts/Sgemme/Batch/Get_MAC_and_Hostname.bat
+General_use_scripts/Sgemme/Batch/Open-O-Drive.bat
+General_use_scripts/Sgemme/Batch/Remove_Vmware.bat
+General_use_scripts/Sgemme/Batch/reset_wsus_client.bat
+General_use_scripts/Sgemme/Batch/Run MMC.bat
+General_use_scripts/Sgemme/Batch/WMI_Fix.bat
+General_use_scripts/Sgemme/PowerCLI/0
+General_use_scripts/Sgemme/PowerCLI/Generate-VMs.ps1
+General_use_scripts/Sgemme/PowerCLI/Install-Agent.ps1
+General_use_scripts/Sgemme/PowerCLI/Install-Linux-Agent.ps1
+General_use_scripts/Sgemme/PowerCLI/Snapshot-Manager.ps1
+General_use_scripts/Sgemme/PowerCLI/VM-Last-Poweron-Time.ps1
+General_use_scripts/Sgemme/PowerCLI/VMList.csv
+General_use_scripts/Sgemme/PowerCLI/VMs_Per_Host.ps1
+General_use_scripts/Sgemme/PowerShell/_Package.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Account-Cleanup-Via-LDIF.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Acct.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/AlumniAudit.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Archive.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Audit-Folder-Access.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/AzureAD-Group-Audit.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/CheckDYNwithAD.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/DynamicListManagement.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/DynamicListOptCreation.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Expired-Account-Report.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Fix-AD-Home-Directories.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Get-Folder-Users-Access.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Group-Ed.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/ldapsearch.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/LoggedOn.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Get-Folder-Users-Access-Results-07-31-2020_1732.csv
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Get-Folder-Users-Access-Results-08-03-2020_0946.log
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Get-Folder-Users-Access-Results-08-03-2020_0955.log
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Completed-07-29-2020_0958-IT-ONLY.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Completed-07-29-2020_1138-DISABLED-ONLY.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Completed-07-29-2020_1217.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Completed-07-29-2020_1411.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Completed-07-29-2020_1412.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Errors-07-29-2020_0958-IT-ONLY.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Errors-07-29-2020_1138-DISABLED-ONLY.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Errors-07-29-2020_1217.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Errors-07-29-2020_1411.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Errors-07-29-2020_1412.txt
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Transcript-07-29-2020_1217.log
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Transcript-07-29-2020_1411.log
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Transcript-07-29-2020_1412.log
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Transcript07-29-2020_0958-IT-ONLY.log
+General_use_scripts/Sgemme/PowerShell/Account Management/Logs/Populate-Uid-Gid-Transcript07-29-2020_1138-DISABLED-ONLY.log
+General_use_scripts/Sgemme/PowerShell/Account Management/Move-Users.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Out-Of-Office-Edit.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Populate-Uid-Gid-Numbers.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Remove-All-The-Access.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Reset.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Test Credentials.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/Unlock-All.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/User-Access-Audit.ps1
+General_use_scripts/Sgemme/PowerShell/Account Management/User-Cleanup.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/AD-Computer-Cleanup.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Add-Network-Printer.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/CCMCache-Reset-Reboot.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Clear-SCCM-Cache.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Delete-Saved-Profiles.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Disconnect-Local-Idle-Sessions.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Find-Idle-Sessions.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/FindEcryptedFiles.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Fix-Slow-Windows-Shares.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Get-Logon-Stats.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Get_IIS_Computers.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Multipass.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/New-Terminal-Server.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/RegEditor.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/RegToXML.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Remote-Copy-File.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Remote-SCCM-App-Kick.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Rename-Computer.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Reset-and-Clear-Print-Spooler.ps1
+General_use_scripts/Sgemme/PowerShell/Computer Management/Test-Port.ps1
+General_use_scripts/Sgemme/PowerShell/Microsoft.PowerShell_profile.ps1
+General_use_scripts/Sgemme/PowerShell/Misc/Create-Shortcut.ps1
+General_use_scripts/Sgemme/PowerShell/Misc/Distribution-Group-Lookup.ps1
+General_use_scripts/Sgemme/PowerShell/Misc/DistributionList-Manager.ps1
+General_use_scripts/Sgemme/PowerShell/Misc/Email-List-No-BCC.ps1
+General_use_scripts/Sgemme/PowerShell/Misc/Email-Test-List.csv
+General_use_scripts/Sgemme/PowerShell/Misc/Get-Group-Details.ps1
+General_use_scripts/Sgemme/PowerShell/Misc/MTE-MPE-MFE-ME-Groups.csv
+General_use_scripts/Sgemme/PowerShell/Misc/PXE_Boot_Test.ps1
+General_use_scripts/Sgemme/PowerShell/Misc/sgemme_prv.xml
+General_use_scripts/Sgemme/PowerShell/Misc/Wim.ps1
+General_use_scripts/Sgemme/PowerShell/PowerShell Practice.ps1
+General_use_scripts/Sgemme/PowerShell/Remote-Run-Script.ps1
+General_use_scripts/Sgemme/PowerShell/Scripthost Stuff/IAM/AuditFirstLogins/Check-Status-Manually.ps1
+General_use_scripts/Sgemme/PowerShell/Scripthost Stuff/IAM/AuditFirstLogins/Find-Users-By-ID-Number.ps1
+General_use_scripts/Sgemme/PowerShell/Scripthost Stuff/IAM/AuditFirstLogins/Get-New-Account-First-Logons.ps1
+General_use_scripts/Sgemme/PowerShell/SgemmeFunctions.psm1
+General_use_scripts/Sgemme/PowerShell/Software Management/Adobe-KACE-Registry-Clean.ps1
+General_use_scripts/Sgemme/PowerShell/Software Management/Clean-Lab-Desktop-Shortcuts.ps1
+General_use_scripts/Sgemme/PowerShell/Software Management/Create-Shortcut.ps1
+General_use_scripts/Sgemme/PowerShell/Software Management/Install-Default-Apps.ps1
+General_use_scripts/Sgemme/PowerShell/Software Management/Remove-Default-Apps.ps1
+General_use_scripts/Sgemme/PowerShell/Software Management/Remove-Unwanted-KACE-Software-Listings.ps1
+General_use_scripts/Sgemme/PowerShell/Windows Defender Management/Apply-MpPreferences.ps1
+General_use_scripts/Sgemme/PowerShell/Windows Defender Management/Get-WindowsDefenderStats.ps1
+General_use_scripts/Sgemme/PowerShell/Windows Defender Management/Windows_Defender_Initiate_Registry.bat
+General_use_scripts/Sgemme/SQL.UDL
+General_use_scripts/TNSNames.ora
+O365/Archive/Scripthost Scripts/wpi/batch/25live/25live_CampusCenterDailyEvents.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/CheckR25BannerInterfaceStatus.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/CheckVcalImportFailures.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/contacttemp.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/Generate Shared Meeting Files.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/GenerateSharedMeetingFiles.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/locksys.txt
+O365/Archive/Scripthost Scripts/wpi/batch/25live/R25_Banner_User_sync_Collegenet_Prod.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/R25_Banner_User_sync_Collegenet_Prod_old.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/R25_Banner_User_sync_Collegenet_Test.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/R25_Banner_User_sync_functions.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/R25_Banner_User_sync_Test.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/25live/sharedmeetings.txt
+O365/Archive/Scripthost Scripts/wpi/batch/25live/temp.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/tempvcalmode.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/Test - R25 Banner User Sync.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/user.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/usertemp.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/usertemp51.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/usertemp52.xml
+O365/Archive/Scripthost Scripts/wpi/batch/25live/VcalMode.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/AD Phone/ADPhoneExtensionUpdate.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/AD Phone/ADPhoneExtensionUpdatelog - Copy.html
+O365/Archive/Scripthost Scripts/wpi/batch/AD Phone/ADPhoneExtensionUpdatelog.html
+O365/Archive/Scripthost Scripts/wpi/batch/AD Phone/Update AD Phone Extensions.xml
+O365/Archive/Scripthost Scripts/wpi/batch/ADExpirations/EmailExpirations - Copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/ADExpirations/EmailExpirations-new.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/ADExpirations/EmailExpirations.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/ADExtract/bannerconnection.txt
+O365/Archive/Scripthost Scripts/wpi/batch/ADExtract/batchman.txt
+O365/Archive/Scripthost Scripts/wpi/batch/ADExtract/ProcLauncher.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/AD-Bannergroupsync.bat
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/AD-BannerGroupSync.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/bannergroupout.log
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/encrypt.txt
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/locksys.txt
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/studentgroupout.log
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/studentgroupsync.bat
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/studentgroupsyncforADMIN.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/Update Banner Enforced Groups.xml
+O365/Archive/Scripthost Scripts/wpi/batch/ADGroups/Update Term Groups.xml
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/bannerpicturepaths - 20141013.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/bannerpicturepaths - 20160823.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/bannerpicturepaths - Copy.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/bannerpicturepaths-test.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/bannerpicturepaths.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/copyIDPicturesToBannerShare 2014-08-28.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/copyIDPicturesToBannerShare.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/encrypt.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/WPIID_AddEveryone.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Banner/WPIID_Sync_Status.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/bannerextractconnection.txt
+O365/Archive/Scripthost Scripts/wpi/batch/bannergroupout.log
+O365/Archive/Scripthost Scripts/wpi/batch/Camera_Audit.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Camera_Audit_old.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/AlumniDemoCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/AlumniDemoTimelapse.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/BarlettCamTimeLapse.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/BartlettCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/BartlettDynamicTimelapse.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/DynamicTimelapse.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/HarringtonCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/HarringtonCamTimeLapse.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/HarringtonDynamicTimelapse.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/LibraryArt.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/LibraryArt2.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/LibraryArtInstallation-Fail.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/LibraryEntranceTimelapse.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/MorganCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/MorganCamTimeLapse.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/MorganDynamicTimelapse.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PressBoxCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PressboxCamTimeLapse.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PressBoxDynamicTimelapse.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishBartlettCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishBartlettCamtoWeb.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishHarringtonCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishHarringtonCamtoWeb.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishMorganCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishMorganCamtoWeb.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishPressBoxCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishPressBoxCamtoWeb.xml
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/PublishSwimmingPoolCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/SwimmingPoolCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/SwimmingPoolDynamicTimelapse.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CameraJobs/Update Camera Audit Webpage.xml
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord-rotate-pharos-logs.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_AddIdsAndUpdateNames.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_AddIdsAndUpdateNames.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_AddIdsAndUpdateNames_pprd.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_ChangeMealPlans.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_ChangeMealPlans.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_ChangeMealPlans_Stage.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_CheckEODandBalanceReset.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_GetBalancesForselfService.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_GetBalancesForselfService.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_UpdateTransactionTable.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/Cbord_UpdateTransactionTable.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Cbord/oracle.txt
+O365/Archive/Scripthost Scripts/wpi/batch/cbordsys.txt
+O365/Archive/Scripthost Scripts/wpi/batch/cbordsyspprd.txt
+O365/Archive/Scripthost Scripts/wpi/batch/checklastfiledate.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/BPTroubleshooting.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/CopyBannerCustomerDatatoCherwell.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/dvalerio.sql
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/exportbc.sql
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/FixBusinessProcessService.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/New Text Document (2).txt
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/New Text Document.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/PPROD Restore Powershell Commands.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/prodtopprd.sql
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/prodtotest.sql
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/ReplicateProdDatabaseTo5PPRD.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/ReplicateProdDatabaseTo5Test.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/ReplicateProdDatabaseToPPRD.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/ReplicateProdDatabaseToTest.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/ReplicationAdditions_WIP.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/Testing.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Cherwell/wpi_cherwell_data.sql
+O365/Archive/Scripthost Scripts/wpi/batch/CopyDeptSharesToStorage.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CopyDeptSharesToStorage_withIT.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CopyITShares.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CSI/CSI_UpdateIDPictures.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/CSI/CSI_UpdateIDPictures_Test.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Delprof2/Changelog.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Delprof2/computerlist.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Delprof2/computerlist2.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Delprof2/delprof2-list.bat
+O365/Archive/Scripthost Scripts/wpi/batch/Delprof2/delprof2-remove.bat
+O365/Archive/Scripthost Scripts/wpi/batch/Delprof2/DelProf2.exe
+O365/Archive/Scripthost Scripts/wpi/batch/Delprof2/results.txt
+O365/Archive/Scripthost Scripts/wpi/batch/DelprofGL/Changelog.txt
+O365/Archive/Scripthost Scripts/wpi/batch/DelprofGL/computerlist.txt
+O365/Archive/Scripthost Scripts/wpi/batch/DelprofGL/delprof2-remove.bat
+O365/Archive/Scripthost Scripts/wpi/batch/DelprofGL/DelProf2.exe
+O365/Archive/Scripthost Scripts/wpi/batch/DelprofGL/results.txt
+O365/Archive/Scripthost Scripts/wpi/batch/DirectoryExtract/directory_extract.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/DirectoryExtract/Script Backups/directory_extract.2013-06-28.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/DirectoryExtract/Script Backups/directory_extract.2013-07-18.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/DirectoryExtract/Script Backups/directory_extract.2015-11-04.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/DirectoryExtract/Script Backups/directory_extract.2016-04-08.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/DoEnterpriseMigrationStuff.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/echo360-Archivecopy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/echo360-copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/encrypt.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Exchange/ExchangeHealthCheck-DailyReport.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Exchange/ExchangeHealthCheck-MailQueues.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Exchange/ExchangeHealthCheck-Mounted.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Exchange/ExchangeHealthCheck-QueueLength.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Exchange/Get-RuleForwards.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Exchange/Get-RuleForwards2.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/GetDynamicTimelapse.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/0
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/AddMissingBadges.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/contacttemp.xml
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/DeactivateUnknownBadges.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/DeleteBadges.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/encrypt.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/foo.sql
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/info.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/kick-csi-checkin-service.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/Lenel OnGuard - Add Everyone.xml
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/locksys.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_AddEveryone.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_CopyIDPictures.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_DeleteDeactivatedAccess.log
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_DeleteDeactivatedAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_DeleteDeactivatedAccess.sql
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_FailedRPC.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_FailedRPCAudit.log
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/Onguard_FixMissingBadges.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_ReactivateBadges.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetAccessAlumni.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetAccessCommunity.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetAccessFaculty.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetAccessStaff.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetAccessStudent.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetCourseAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetDormAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetMajorAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetProjectAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetRecCenterAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetRecCenterAccessManuallyFromFile.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SetRecCenterAccessNEW.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SyncBadgeAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/OnGuard_SyncBadgeStatus.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/prodtotest.sql
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/QueryOracle.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/report_30boynton_gym.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/SetMiscAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/UpdateCardholderNames.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/usertemp.xml
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/WrongCardholder.txt
+O365/Archive/Scripthost Scripts/wpi/batch/Lenel_OnGuard/WrongCardholderAndMissingSmartCards.txt
+O365/Archive/Scripthost Scripts/wpi/batch/locksys.txt
+O365/Archive/Scripthost Scripts/wpi/batch/maximo/export.bat
+O365/Archive/Scripthost Scripts/wpi/batch/maximo/exportwo.sql
+O365/Archive/Scripthost Scripts/wpi/batch/maximo/header.txt
+O365/Archive/Scripthost Scripts/wpi/batch/maximo/maximoworkorder.txt
+O365/Archive/Scripthost Scripts/wpi/batch/MemberServerInfo.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Monitoring/disk-space.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Monitoring/Get-Events-From-Enterprise.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Monitoring/IsilonCIFS.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Monitoring/logs/disk-space-offline.log
+O365/Archive/Scripthost Scripts/wpi/batch/Monitoring/logs/disk-space-outdated.log
+O365/Archive/Scripthost Scripts/wpi/batch/Monitoring/logs/disk-space-warning.log
+O365/Archive/Scripthost Scripts/wpi/batch/Monitoring/logs/disk-space.log
+O365/Archive/Scripthost Scripts/wpi/batch/Monitoring/SQLServerStatus.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/myWPI/Check-BlackboardActiveMQBroker.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/myWPI/Initialize-SqlpsEnvironment.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/myWPI/truncate-data_intgr_id_map_tmp-table.bat
+O365/Archive/Scripthost Scripts/wpi/batch/nearlinebackuppaths.txt
+O365/Archive/Scripthost Scripts/wpi/batch/nearlinecopy.bat
+O365/Archive/Scripthost Scripts/wpi/batch/nearlinecopy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_AddEveryone.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_BAdgeAssignmentAudit.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_CopyIDPictures.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_DeleteDeactivatedAccess.log
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_DeleteDeactivatedAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_DeleteDeactivatedAccess.sql
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_FailedRPC.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_FailedRPCAudit.log
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_SetCommunityAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_SetCourseAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_SetDormAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_SetMajorAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_SetProjectAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_SetRecCenterAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_SyncBadgeAccess.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_SyncBadgeStatus.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_WiQAccessAudit.log
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/Basis_WiQAccesslevelReaderAudit.log
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/basisbanneridentityissues.html
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/copySingleIDPictureToBasis.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/encrypt.txt
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/GetBasisBannerIdentityIssues.sql
+O365/Archive/Scripthost Scripts/wpi/batch/olduseLenelBasisJobs/kick-csi-checkin-service.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/permissionreplicationup.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/PhotoToAD.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/PublishAppvAppList.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/RC-GarageConstruction1-Dynamic.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/RC-GarageConstruction2-Dynamic.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/RCGarage1CamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/RCGarage1PublishCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/RCGarage2CamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/RCGarage2PublishlCamSnapshot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/machineshopreboot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/podium-reboot.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/shutdown-all-lab-pcs-2015-12-23.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/shutdown-all-lab-pcs.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/shutdown-library - Copy (2).ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/shutdown-library - Copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/shutdown-library.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/shutdown-most-publiclab-ous.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/shutdown-ous-2016.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Remote_Shutdown/shutdown-ous.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/remus-cleanup.log
+O365/Archive/Scripthost Scripts/wpi/batch/remus-cleanup.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/remus-nearline.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/CopyDeptSharesToDRStoragetest.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/PermissionReplicationup.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/PermissionReplicationupGroupConsolidation.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/PermissionReplicationupGroupConsolidationV2.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Permissions-AcademicAffairs.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Permissions-Development.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Permissions-Enrollment.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Permissions-Finance.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Permissions-HR.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Permissions-Marketing.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Permissions-Presidents Office.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Permissions-StudentAffairs.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Share Migration/Robocopy.exe
+O365/Archive/Scripthost Scripts/wpi/batch/Solidworks-Copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/SQLServer/Get-InstanceInfo.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/SQLServer/QueryOracle.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/SQLServer/Untitled2.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Starrez/contacttemp.xml
+O365/Archive/Scripthost Scripts/wpi/batch/Starrez/ImageExportPOC.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Starrez/StarrezIDPhotoExport.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Starrez/StarrezIDPhotoExportNEW.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Starrez/Untitled2.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Starrez/usertemp.xml
+O365/Archive/Scripthost Scripts/wpi/batch/Starrez/WPIIDPhotoPath.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/studentgroupout.log
+O365/Archive/Scripthost Scripts/wpi/batch/Valiant-Copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Valiant-Flash-Copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Valiant-Flashtemp-Copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Valiant-Media-Copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/Valiant-MSELearn-Copy.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/VMM/CheckIntegrationComponents.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/WiQ/Basis_WiQAccessAudit.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/WiQ/Basis_WiQAccessLevelAudit.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/WiQ/Basis_WiQAccessLevelReaderAudit.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/workpapermgr/workpapermgr-cleanup.ps1
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/Course_Schedule_2014.xml
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/new_v1.1.schedb
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/new_v1.1.schedb-test
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/planner.schedb
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/planner_test.schedb
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/plannertest.schedb
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/pscp.exe
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/T2015
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/T2016
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/wpi.schedb
+O365/Archive/Scripthost Scripts/wpi/batch/wpischeduler.org/wpischeduler.ps1
+O365/Archive/Scripthost Scripts/wpi/BGInfo/WPI_Server.bgi
+O365/Archive/Scripthost Scripts/wpi/Delprof2 1.6.0/Delprof2 1.6.0/Changelog.txt
+O365/Archive/Scripthost Scripts/wpi/Delprof2 1.6.0/Delprof2 1.6.0/DelProf2.exe
+O365/Archive/Scripthost Scripts/wpi/exe/blat.exe
+O365/Archive/Scripthost Scripts/wpi/exe/psftp.exe
+O365/Archive/Scripthost Scripts/wpi/exe/wget.exe
+O365/Archive/Scripthost Scripts/wpi/Nearline - REMUS.xml
+O365/Archive/Scripthost Scripts/wpi/Nearline task.xml
+O365/Archive/Scripthost Scripts/wpi/Remus Backup File Cleanup.xml
+O365/Archive/Scripthost-02 Scripts/Exchange/AlumniPilotStats/exch_automation@wpi.edu.xml
+O365/Archive/Scripthost-02 Scripts/Exchange/AlumniPilotStats/Get-AlumniPilotStats-new.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/AlumniPilotStats/Get-AlumniPilotStats.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/AlumniPilotStats/Get-AlumniPilotStats.ps1.2018-06-10
+O365/Archive/Scripthost-02 Scripts/Exchange/AlumniPilotStats/Task_Creation-Get-AlumniPilotStats.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/AlumniPilotStats/TranscriptLog_20171111-1758.txt
+O365/Archive/Scripthost-02 Scripts/Exchange/CheckMailRestrictions/CheckMailRestrictions.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/CheckMailRestrictions/exch_automation@wpi.edu.xml
+O365/Archive/Scripthost-02 Scripts/Exchange/CheckMailRestrictions/Task_Create-CheckMailRestrictions.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/DLManagement/DLManagement-edit.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/DLManagement/DLManagement.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/DLManagement/exch_automation@wpi.edu.xml
+O365/Archive/Scripthost-02 Scripts/Exchange/DLManagement/Task_Create-DLManagement.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/ManagedBlockedUsers/ManageBlockedUsers.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/ManagedBlockedUsers/Task_Creation-ManageBlockedUsers.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/UnixForwardCheck/Check-UnixForwards.ps1
+O365/Archive/Scripthost-02 Scripts/Exchange/UnixForwardCheck/s_tcollins@wpi.edu.xml
+O365/Archive/Scripthost-02 Scripts/Exchange/UnixForwardCheck/Task_Creation-Check-UnixForwards.ps1
+O365/Archive/Scripthost-02 Scripts/ExchangeMigration/ADMIN_exch_automation.xml
+O365/Archive/Scripthost-02 Scripts/ExchangeMigration/exch_automation@wpi.edu.xml
+O365/Archive/Scripthost-02 Scripts/ExchangeMigration/ExchangeTest.ps1
+O365/Archive/Scripthost-02 Scripts/ExchangeMigration/Migrate_Local_Mailboxes_Online.ps1
+O365/Archive/Scripthost-02 Scripts/ExchangeMigration/Post-Migration Processes.ps1
+O365/Archive/Scripthost-02 Scripts/ExchangeMigration/Task_Creation-ExchangeTest.ps1
+O365/Archive/Scripthost-02 Scripts/ExchangeMigration/Task_Creation-Migrate_Creation.ps1
+O365/Archive/Scripthost-02 Scripts/ExchangeMigration/Task_Creation-Post_Migration.ps1
+O365/Archive/Scripthost-02 Scripts/General/SoftwareFolderChanges/Get_Software_Folder_Changes.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/AccountCheck/AccountTerminationCheck.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/AccountCheck/Task_Create-AccountTerminationCheck.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/AccountCheck/Transcriptlog.txt
+O365/Archive/Scripthost-02 Scripts/IAM/ADExpirations/EmailExpirations-test.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/ADExpirations/EmailExpirations.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/ADExpirations/Task_Create-EmailExpirations.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/CheckExchangeMailLoop/CheckMailLoops.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/CheckExchangeMailLoop/s_tcollins@wpi.edu.xml
+O365/Archive/Scripthost-02 Scripts/IAM/CheckExchangeMailLoop/Task_Create-CheckMailLoops.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/MSOLLicenseAssignment/MSOL_Licenses_Assignment.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/MSOLLicenseAssignment/s_tcollins@wpi.edu.xml
+O365/Archive/Scripthost-02 Scripts/IAM/MSOLLicenseAssignment/Task_Create-MSOL_Licenses_Assignment.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/UpdateExodus/Task_Create-UpdateExodus.ps1
+O365/Archive/Scripthost-02 Scripts/IAM/UpdateExodus/UpdateExodus.ps1
+O365/Archive/Scripthost-02 Scripts/Tasks/Create Tasks.ps1
+O365/Archive/sysops_scripts/AlumniEmail/AlumniList.txt
+O365/Archive/sysops_scripts/AlumniEmail/ConvertAlumniUsers.ps1
+O365/Archive/sysops_scripts/LeaveOfAbsence/ConvertLOAUsers.ps1
+O365/Archive/sysops_scripts/LeaveOfAbsence/LOAList.txt
+O365/Archive/sysops_scripts/Retiree/ConvertRetiree.ps1
+O365/Archive/sysops_scripts/Retiree/RetireeList.txt
+O365/Archive/TC Scripts/Account Removals/AccountDisableScript.ps1
+O365/Archive/TC Scripts/Account Removals/AccountDisableScript_dev.ps1
+O365/Archive/TC Scripts/Account Removals/accountlist.txt
+O365/Archive/TC Scripts/Account Removals/Remove-Acccounts.ps1
+O365/Archive/TC Scripts/Active Directory/AccountTerminationCheck.ps1
+O365/Archive/TC Scripts/Active Directory/Audit Account Expiration and Password Expiration.ps1
+O365/Archive/TC Scripts/Active Directory/Build Faculty Lists.ps1
+O365/Archive/TC Scripts/Active Directory/Bulk Update Proxy List.ps1
+O365/Archive/TC Scripts/Active Directory/Clear up Deny Logon group.ps1
+O365/Archive/TC Scripts/Active Directory/Create Guest Accounts.ps1
+O365/Archive/TC Scripts/Active Directory/Create Service Account.ps1
+O365/Archive/TC Scripts/Active Directory/Flag alumni accounts from Banner (GWVSVNT) Data.ps1
+O365/Archive/TC Scripts/Active Directory/Get List of users with Proxy Addresses.ps1
+O365/Archive/TC Scripts/Active Directory/Process Termination List.ps1
+O365/Archive/TC Scripts/Active Directory/Rename-ResourceMailbox.ps1
+O365/Archive/TC Scripts/Active Directory/Rename-User.ps1
+O365/Archive/TC Scripts/Active Directory/Test Credentials.ps1
+O365/Archive/TC Scripts/add_remove_admin.ps1
+O365/Archive/TC Scripts/AzureAD/Audit MFA and SSPR - Benefit Users.ps1
+O365/Archive/TC Scripts/AzureAD/Audit MFA and SSPR.ps1
+O365/Archive/TC Scripts/AzureAD/Clean up Disabled users and Azure Groups.ps1
+O365/Archive/TC Scripts/AzureAD/Configure 12 hr MFA Max Age Session.ps1
+O365/Archive/TC Scripts/AzureAD/Create Unified Group.ps1
+O365/Archive/TC Scripts/AzureAD/Get Unified Groups Statistics.ps1
+O365/Archive/TC Scripts/AzureAD/Get Workday SSO Access.ps1
+O365/Archive/TC Scripts/AzureAD/Remove Listmaster from groups.ps1
+O365/Archive/TC Scripts/Batch/adobe-activation.bat
+O365/Archive/TC Scripts/Batch/disable-smart-ink/copy-disableSmartInk.bat
+O365/Archive/TC Scripts/Batch/disable-smart-ink/disableSmartInk.bat
+O365/Archive/TC Scripts/Batch/disableSmartInk.bat
+O365/Archive/TC Scripts/Batch/emon-meters-backup.bat
+O365/Archive/TC Scripts/Batch/mapping-test.bat
+O365/Archive/TC Scripts/Batch/vm-time-fix.bat
+O365/Archive/TC Scripts/build-course-shares.ps1
+O365/Archive/TC Scripts/Enable SMART Ink.lnk
+O365/Archive/TC Scripts/Exchange/1 - Purge Bad Mail - TC.ps1
+O365/Archive/TC Scripts/Exchange/1 - Purge Bad Mail.ps1
+O365/Archive/TC Scripts/Exchange/Clean Up SMTP Relay Queue.ps1
+O365/Archive/TC Scripts/Exchange/Configure Allow and Blocks for EOP Spam Marking.ps1
+O365/Archive/TC Scripts/Exchange/Convert Local DL to Online DL.ps1
+O365/Archive/TC Scripts/Exchange/Create CS distribution List.ps1
+O365/Archive/TC Scripts/Exchange/Create Distribution Group.ps1
+O365/Archive/TC Scripts/Exchange/Create Resource Mailbox (online).ps1
+O365/Archive/TC Scripts/Exchange/Exchange - Get Rules - Deleted Items.ps1
+O365/Archive/TC Scripts/Exchange/Remove Bad Members Distribution Lists.ps1
+O365/Archive/TC Scripts/FileSystem/Assign ABE Group to Shares.ps1
+O365/Archive/TC Scripts/FileSystem/Audit Access Groups.ps1
+O365/Archive/TC Scripts/FileSystem/Audit Folder Inheritance and fix.ps1
+O365/Archive/TC Scripts/FileSystem/Create ETP Integration SFTP Folders and ACLs - v2.ps1
+O365/Archive/TC Scripts/FileSystem/Create ETP Integration SFTP Folders and ACLs.ps1
+O365/Archive/TC Scripts/FileSystem/Create Share ABE Groups.ps1
+O365/Archive/TC Scripts/FileSystem/Create Share Groups.ps1
+O365/Archive/TC Scripts/FileSystem/Fix Storage Share Access - Remove inheritance and add storage dept share admins.ps1
+O365/Archive/TC Scripts/FileSystem/Get HRS Share Access.ps1
+O365/Archive/TC Scripts/FileSystem/Get list of EXE properties for software cataloguing.ps1
+O365/Archive/TC Scripts/FileSystem/Get-ACE Share Access.ps1
+O365/Archive/TC Scripts/FileSystem/Get-ETP Share Access.ps1
+O365/Archive/TC Scripts/FileSystem/Roll Up Access Groups.ps1
+O365/Archive/TC Scripts/FileSystem/Update ABE Membership.ps1
+O365/Archive/TC Scripts/IAM/Correlate AD data with Banner GWVSVNT view.ps1
+O365/Archive/TC Scripts/IAM/Process Federation ID for Salesforce.ps1
+O365/Archive/TC Scripts/IAM/Validate Account Expiration Status for ECLASS status.ps1
+O365/Archive/TC Scripts/Libraries/ADFunctions.ps1
+O365/Archive/TC Scripts/Libraries/Archive/ADFunctions.ps1
+O365/Archive/TC Scripts/Libraries/Archive/EnhancedFind.ps1
+O365/Archive/TC Scripts/Libraries/Archive/ExchangeAdminFunctions.ps1
+O365/Archive/TC Scripts/Libraries/Archive/ExchangeGeneralFunctions.ps1
+O365/Archive/TC Scripts/Libraries/Archive/Load_PowerShell_Libraries.ps1
+O365/Archive/TC Scripts/Libraries/EnhancedFind.ps1
+O365/Archive/TC Scripts/Libraries/ExchangeAdminFunctions.ps1
+O365/Archive/TC Scripts/Libraries/ExchangeGeneralFunctions.ps1
+O365/Archive/TC Scripts/Libraries/Load_PowerShell_Libraries.ps1
+O365/Archive/TC Scripts/Libraries/O365Functions.ps1
+O365/Archive/TC Scripts/Library Circulation Desk Printers.vbs
+O365/Archive/TC Scripts/Library.General.ps1
+O365/Archive/TC Scripts/Library.TC.ps1
+O365/Archive/TC Scripts/Microsoft.PowerShell_profile.ps1
+O365/Archive/TC Scripts/Microsoft.PowerShellISE_profile.ps1
+O365/Archive/TC Scripts/MSOL/Audit Yammer Licenses.ps1
+O365/Archive/TC Scripts/MSOL/Configure SSO and MFA licenses.ps1
+O365/Archive/TC Scripts/MSOL/Update Licenses for Licensed Users - exclude IT.ps1
+O365/Archive/TC Scripts/Other Scripts/AccountCreation.ps1
+O365/Archive/TC Scripts/Other Scripts/Rebuild Student Account.ps1
+O365/Archive/TC Scripts/Other Scripts/Rename-User.ps1
+O365/Archive/TC Scripts/outlook-html-fix/ie-fix-restrictions-Win32.reg
+O365/Archive/TC Scripts/outlook-html-fix/ie-fix-restrictions-Win64.reg
+O365/Archive/TC Scripts/outlook-html-fix/readme.txt
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Alumni Pilot Expiration Stats.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Audit Groups.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Audit Unlinked GPO.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Audit User Status (from Banner export).ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Banner Course Groups - Export list of members.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Banner Course Groups - Remove members of old groups.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Banner Course Groups - Remove old groups.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Banner Course Groups - Remove old groups.txt
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Check Commencement Aliases.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Compare AD to Canvas Extract.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Create ETP sFTP Service Groups.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Create Privileged Account.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Create Service Groups.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Deprovisioning/Compare List of Alumni vs AD Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Deprovisioning/Compare List of HR Data vs AD Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Find and Delete old computer accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Find users with no UNIX accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Find users with UNIX accounts and no AD Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Fix Display Name.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Get Data for NEs.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/get data for registrar.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Mass Resurrect or account move.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Process computers to be deleted.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Remove Disabled Computers.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Review Groups for removal.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Review Newly Created Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/AD Management/Scratch - Review and audit old computer accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/1A - Create OU Structure.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/1B - Create User Objects.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/1C - Create Computer Objects.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/1D - Create Group Objects.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/2A - Add Users to Parents.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/2B - Add Groups to Parents.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/2C - Add Computers to Parents.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/Get List of Group and Computer Memberships.ps1
+O365/Archive/TC Scripts/Powershell Archive/DevDomain/Get List of User Memberships.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/3 - Check for bad forwards.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Alumni and LOA without Commencement Aliases.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Audit and Disable all auto-replies for disabled users.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Bulk Check Forwards.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Check UNIX account Forwards and compare to Exchange.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/clean up resource mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Create Distribution Group.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Create Mailboxes for failed users.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Fix Missing Alias - exchange.wpi.edu.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Fix Remote Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Get data for RCP Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Get Litigation Holds.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Process Bulk Check Forwards.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Scratch - Track down mailboxes where alias doesn't equal username 1.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Scratch - Track down mailboxes where alias doesn't equal username 2.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Update Proxy Addresses for CS.ps1
+O365/Archive/TC Scripts/Powershell Archive/Exchange/Update Proxy Addresses for ECE and EE.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/AccountDisableScript.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/ASCII Conversion.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Audit Computer Age.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Audit Employee Accounts via PIDM.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Audit Employee Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Audit IIS on Servers.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Audit STUDENT Computer Age.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Bulk Scramble Password.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Change Contacts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Check-BlackboardActiveMQBroker.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Clean up Disabled Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Clear-ASDevices.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Clear-StaleASDevices.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Configure SysAdmin II Shares.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Convert-StudentToAdmin.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Copy Exchange Logs.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create Course Folders and ACLS.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create Resource Mailbox.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create SharePoint Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create Storage Shares and Groups.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create Student Account.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create Student Work Study.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create Summer Group Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create Test Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create WinSam Cloud RBAC Role.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create WinSam RBAC Role.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create-BlackboardFirewallRules.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create-Mailbox.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Create-Share.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Deploy BGInfo Updates to all Servers.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/directory_extract.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/DisableUAC.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/EmailExpiringUsers-aries.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Fix Contacts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Fix-BadDelegates.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/FixNanosurf.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Generate Complex Password.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get List of 7010 drivers.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-AccountStats.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-BadGroupAccounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-ComputerList.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-ComputerResources.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-ExchangeHealthStatus.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-ExchangeLogCount.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-FileInfo.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-FileLastAccess.backup.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-FileLastAccess.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-iOS Device List.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-PasswordExpirationDates.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-PasswordExpirationDates2.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Get-Server-SerialNumbers.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Initialize-SqlpsEnvironment.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/LDAP Lookup 2.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/LDAP Lookup 3.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/LDAP Lookup 4.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/LDAP Lookup.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Manage Local Admins.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/new-TestCasConnectivityUser.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/new_student.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/NSA-manual.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/NTP Health Check.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/ProcessAccounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/ProcessDelegates.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/ProcessHDStudent.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Purge IIS Log Files on SharePoint Servers.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/PurgeIISServerLogs.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Rebuild Student Account.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Remove Contacts.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Remove Inactive Devices.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Remove Users from Send on Behalf.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Remove-OldFiles.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Reset Password Expiration.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/ResetServerAdminPassword-reference.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/ResetServerAdminPassword.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Scan Messages.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Set-TokenPrivilege.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Setup Distribution Lists.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Stamp ID and PIDM.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Test-ExchangeServerHealth.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/TestDatabaseCommands.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Unlock accounts with lockout problems.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Update User ID and PIDM.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Verify Account Status.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Verify Mailbox Forwards.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/Verify-IP.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/WINDEV - Create Groups.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/WINDEV - Create OUs.ps1
+O365/Archive/TC Scripts/Powershell Archive/General Scripts/WINDEV - Directory Extract.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/ACL Update Up Tree.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Audit Delegate Access.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Audit ID and PIDM.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Audit Mailbox Access and Sending Privileges.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Audit Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Audit Resource Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/AuditACL.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Bad Email List.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Blackboard - Snapshot cURL.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Blackboard - Using Invoke-RestMethod.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Blackboard Snapshot.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Broadcast List Popuplation.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Change Local Account Passwords.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Change Server Local Account Passwords.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Chris Jackson Access.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Clean Up Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Clear McAfee AgentEvents.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Computer ECE and ADMIN.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Configure Exchange Warning Messages.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/ConfigureACL.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Convert Alumni LDAP data to table.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Create Cloud Test Account.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Create Complex Passphrase.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Create Exchange Administrator Account.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/EmailAddressPolicy/Get Recipient Email Type Breakdown.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/EmailAddressPolicy/Remvoe old email addresses.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Enable Work Study Mailbox.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Exchange - Delete Database Files.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Exchange - Delete Databases.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Exchange - Get Rules 2.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Exchange - Get Rules.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Exchange - Move Databases.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Exchange 2010 Email Stats.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Exchange Tests.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Export List usernames and ID and PIDM.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Find Accounts to Delete.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Find CSV - Scratch 1.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Find CSV - Scratch 2.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Find CSV - Scratch 3.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/find-cluster-shared-volumes.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Fix AppV.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/FixIsilonShares.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get ActiveSync Devices.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get IE versions.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get Lab Computer Specs.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get Local Admins of Adobe Systems.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get Local Admins.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get-DFS Shares and Paths.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get-Distribution Lists with Disabled Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get-LockedOutLocation-simple.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Get-LockedOutLocation.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Mailbox Statistics - 2.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Mailbox Statistics for Users to Be Deleted.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Mailbox Statistics.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Mailboxes - Check for Split Mail.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Manage Shares.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Mass Update Send On Behalf.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/MinerGate Search.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/OCS User Management.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Process Accounts for Deletion.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Process_SIS_Integration.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Rebalance/Process Initial List.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Rebalance/Process Move List.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Rebuild Mailbox Permissions.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Rebuild Send As List.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Rebuild Send on Behalf List.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Reconcile WebCheckout User List.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Remote Move Mailbox.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Remove ActiveSync Devices.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Remove Contacts and replace with forwarding.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Remove Disabled Users from SQL Table for Self-Service Account Management.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Remove Messages - from list or logs.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Remove Messages.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Rename All GPO - Legacy.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Rename User Function.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Reset-Delegates.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Rolling copy of Blackboard 8 Exports.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Search Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Server Audit.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Server-DiskHealthCheck.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Set Local Admin.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Set-KeepAliveTime.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Set_Trustee_Passwords.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/SSLv3 Disable.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/SSLv3 Disable2 .ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/SSLv3 Disable3.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Top Mailbox List v2.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Top Mailbox List.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Transport Rule.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Update SQL Table for Self-Service Account Management.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/Updated Info.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/User Account Audit.ps1
+O365/Archive/TC Scripts/Powershell Archive/InProgress/WPI-update-nested-acl.ps1
+O365/Archive/TC Scripts/Powershell Archive/Library.General.ps1
+O365/Archive/TC Scripts/Powershell Archive/Library.GetAccess.ps1
+O365/Archive/TC Scripts/Powershell Archive/Library.TC.ps1
+O365/Archive/TC Scripts/Powershell Archive/Mailbox/Clean Up Resource Mailbox Ownership.ps1
+O365/Archive/TC Scripts/Powershell Archive/Mailbox/Remove Access to all Resource Mailboxes for a user.ps1
+O365/Archive/TC Scripts/Powershell Archive/Microsoft.PowerShell_profile.ps1
+O365/Archive/TC Scripts/Powershell Archive/Microsoft.PowerShellISE_profile.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/MessageOps-Exchange/MessageOps-Exchange-Powershell-Module.dll
+O365/Archive/TC Scripts/Powershell Archive/Modules/MessageOps-Exchange/MessageOps-Exchange.psd1
+O365/Archive/TC Scripts/Powershell Archive/Modules/MessageOps-Exchange/Microsoft.Exchange.WebServices.dll
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/Add-SharePermission.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/ChangeLog.txt
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/Get-Share.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/New-SD.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/New-Share.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/Remove-Share.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/Remove-SharePermission.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/Set-Share.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/Set-SharePermission.ps1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/ShareUtils.Format.ps1xml
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/ShareUtils.psd1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/ShareUtils.psm1
+O365/Archive/TC Scripts/Powershell Archive/Modules/ShareUtils/ShareUtils.Types.ps1xml
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Assign OneDrive and Office ProPlus pilot settings.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Audit Sub-License status.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Change Licenses.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Check Provisioning Status.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Configure Licenses for unlicensed users.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Configure Licenses.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Draft - Configure License PLans.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Draft/Check Faculty Licenses.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Office_365_Licenses.csv
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Office_365_Licenses2.csv
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Process Alumni Account License Update.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Process Disabled Account License Update.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Process Employee Account License Update.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Process License Assignment Issues.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Process Student Account License Update.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/ProPlus - License Update.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Remove ProPlus from non-empoyees.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Update Licenses for Licensed Users - ITS Pilot Group.ps1
+O365/Archive/TC Scripts/Powershell Archive/MSOL/Update Licenses for Licensed Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/1 - Process Remaining on-premise moves to Cloud and run post-migration steps.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/2 - Manage Blocked Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Audit Alumni Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Audit Alumni Accountsv2.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Audit Exchange Accounts Stats.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Audit Extension Attributes.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Audit O365 Forwards.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Audit O365 Forwards2.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Create Test O365 Accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Create Whitelist Transport Rule.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Disable mailbox access.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Duplicate O365 Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Find Duplicate Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Find Expired Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Find Owners of Distribution Groups - scratch notes.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Find Owners of Distribution Groups.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Flag alumni accounts.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Get List of bad SMTP Addresses.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Get List of Blocked Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Get List of Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Mail Block and Bounce - Compromised Account.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Office 365 Batch Migration.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Office 365 Batch Migration2.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Office 365 Complete Batch Migration.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Office 365 Move to On Premise.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Post Migration Tasks.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Process failed moves.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Remote Move Mailbox.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Remove Messages (O365) - from list or logs.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Restore Blocked Mailboxes.ps1
+O365/Archive/TC Scripts/Powershell Archive/O365/Scramble Blocked Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/Other Scripts/WINDEV-CreateDC.ps1
+O365/Archive/TC Scripts/Powershell Archive/PowerShell General/Create Secure Credentials.ps1
+O365/Archive/TC Scripts/Powershell Archive/Random/Get-facilitiesaccountinfo.ps1
+O365/Archive/TC Scripts/Powershell Archive/Random/GetNonEmployee List.ps1
+O365/Archive/TC Scripts/Powershell Archive/Random/GetUsersPasswordExpired.ps1
+O365/Archive/TC Scripts/Powershell Archive/Random/InactiveMachines.txt
+O365/Archive/TC Scripts/Powershell Archive/Random/InfoSec - Key Person Splunk Lookup List.ps1
+O365/Archive/TC Scripts/Powershell Archive/Random/Manage-GroupManagementRole.ps1
+O365/Archive/TC Scripts/Powershell Archive/Random/Untitled1.ps1
+O365/Archive/TC Scripts/Powershell Archive/Random/Update Forwarding on Exchange.ps1
+O365/Archive/TC Scripts/Powershell Archive/Random/Update Licenses for Licensed Users - ITS Pilot Group.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Create_Site.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Export Project Template.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Get List of Stale SharePoint Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Get List of Users in groups on all sites v2.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Get List of Users in groups on all sites.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Process Stale SharePoint Users.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Remove user from all sites - SigEp.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/SharePoint Scripts - Global.lnk
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Thumbs.db
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/Update SharePoint Quotas.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/WPI-Backup-Sites.ps1
+O365/Archive/TC Scripts/Powershell Archive/SharePoint/WPI-Get-SPSiteInfo.ps1
+O365/Archive/TC Scripts/Powershell Archive/Student Scripts/Get-StudentComputers.ps1
+O365/Archive/TC Scripts/Powershell Archive/Student Scripts/Get-StudentUsers.ps1
+O365/Archive/TC Scripts/Powershell/admins.ps1
+O365/Archive/TC Scripts/Powershell/backupProfile.ps1
+O365/Archive/TC Scripts/Powershell/blank-acl.ps1
+O365/Archive/TC Scripts/Powershell/configure-iscsi.ps1
+O365/Archive/TC Scripts/Powershell/configure-vm-host.ps1
+O365/Archive/TC Scripts/Powershell/di-cleanup.ps1
+O365/Archive/TC Scripts/Powershell/evstream-10gbe-team-config.ps1
+O365/Archive/TC Scripts/Powershell/find-cluster-shared-volumes.ps1
+O365/Archive/TC Scripts/Powershell/get-active-sessions.ps1
+O365/Archive/TC Scripts/Powershell/get-uptime.ps1
+O365/Archive/TC Scripts/Powershell/hardware-and-hostname.ps1
+O365/Archive/TC Scripts/Powershell/isilion-access-2012r2-fix.ps1
+O365/Archive/TC Scripts/Powershell/isWin8.ps1
+O365/Archive/TC Scripts/Powershell/join-domain.ps1
+O365/Archive/TC Scripts/Powershell/kick-csi-checkin-service.ps1
+O365/Archive/TC Scripts/Powershell/make-vm.ps1
+O365/Archive/TC Scripts/Powershell/maximo-reboot-recovery.ps1
+O365/Archive/TC Scripts/Powershell/Microsoft.PowerShell_profile.ps1
+O365/Archive/TC Scripts/Powershell/my-wpi-log-cleanup.ps1
+O365/Archive/TC Scripts/Powershell/proof-of-concept-change-local-admin-password.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/add-eclass-pcs-to-group.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/build-course-shares.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/build-course-shares_modified.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/copy-disableSmartInk-to-smarts.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/copy-file-to-OU.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/copy-group-members-to-new-group.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/copy-groups.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/count-ad-computers.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/delprof2/DelProf2.exe
+O365/Archive/TC Scripts/Powershell/requires-ad/delprof2/delprof2.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/disk-space.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/enable-accounts.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/enable-NSO-accounts.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/expiry-accounts.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/get-members.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/get-ou-from-hostname.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/license-zbrush.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/local-admin-password-change.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/local-admin-update.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/move-computer-objects-to-OU.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/nonemployees-shenanigans.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/reboot-av-machines.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/reboot-gh-lab-machines.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/reboot-lab-and-eclass-machines.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/reboot-lab-machines.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/enterprise-set-dropbox-style-acl.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/fossilvm-set-dropbox-style-acl.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/isilion-set-dropbox-style-acl-civil-engineering.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/isilion-set-dropbox-style-acl-es.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/isilion-set-dropbox-style-acl-imgd.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/isilion-set-dropbox-style-acl.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/isilion-set-dropbox-style-acl_FW.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/master-set-dropbox-style-acl.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/new.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-dropbox-style-acl/Untitled7.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-logon-workstations.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/set-many-account-expirations.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/shader-maker-copy.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/share-audit.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/shutdown-all-lab-pcs.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/shutdown-library.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/shutdown-remote-pcs.ps1
+O365/Archive/TC Scripts/Powershell/requires-ad/starlogo.ps1
+O365/Archive/TC Scripts/Powershell/rotate-pharos-logs.ps1
+O365/Archive/TC Scripts/Powershell/serverbuild/2012R2-VMHost/configure-10gbe-team.ps1
+O365/Archive/TC Scripts/Powershell/serverbuild/2012R2-VMHost/configure-iscsi.ps1
+O365/Archive/TC Scripts/Powershell/serverbuild/2012R2-VMHost/configure-vm-host.ps1
+O365/Archive/TC Scripts/Powershell/serverbuild/2012R2-VMHost/join-domain-server.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/2012R2-VMHost/configure-10gbe-team.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/2012R2-VMHost/configure-iscsi.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/2012R2-VMHost/configure-vm-host.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/2012R2-VMHost/join-domain-server.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/2012R2-VMHost/RemoveVMNetworking.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/configure-10gbe-team-cp.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/configure-10gbe-team-drvmhost.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/configure-10gbe-team.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/configure-iscsi-cp.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/configure-iscsi.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/configure-vm-host.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/join-domain-server.ps1
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/readme-vmhost-config.txt
+O365/Archive/TC Scripts/Powershell/vm-host-configuration/RemoveVMNetworking.ps1
+O365/Archive/TC Scripts/Powershell/vmm/get-vms-uptime.ps1
+O365/Archive/TC Scripts/Powershell/vmm/nagios-shtuff.ps1
+O365/Archive/TC Scripts/Powershell/windows8-isilon-access.ps1
+O365/Archive/TC Scripts/Powershell/workpapermgr-cleanup.ps1
+O365/Archive/TC Scripts/reboottester.ps1
+O365/Archive/TC Scripts/RemoteBackup/BackupProfilesRemotely.ps1
+O365/Archive/TC Scripts/RemoteBackup/current-hostnames-bak.txt
+O365/Archive/TC Scripts/RemoteBackup/current-hostnames.txt
+O365/Archive/TC Scripts/RemoteBackup/FindPST.ps1
+O365/Archive/TC Scripts/RemoteBackup/remaining-hostnames.txt
+O365/Archive/TC Scripts/RemoteBackup/RestoreData.ps1
+O365/Archive/TC Scripts/Set-ACL Script.ps1
+O365/Archive/TC Scripts/SharePoint/List all site admnistrators.ps1
+O365/Archive/TC Scripts/SharePoint/Remove site administrator from all sites.ps1
+O365/Archive/TC Scripts/SharePoint/Remove user from all sites.ps1
+O365/Archive/TC Scripts/SharePoint/SharePointFunctions.ps1
+O365/Archive/TC Scripts/SQL/activemq-fix.txt
+O365/Archive/TC Scripts/SQL/bb-misc.sql
+O365/Archive/TC Scripts/SQL/remove-stale-vmm-snapshots.sql
+O365/Archive/TC Scripts/Winsam/3.5.0 Beta 1/Recipient Info.ps1
+O365/Archive/TC Scripts/Winsam/3.5.0 Beta 1/WinSam - Copy Files.ps1
+O365/Archive/TC Scripts/Winsam/3.5.0 Beta 1/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/3.5.0 Beta 1/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/3.5.0 Beta 1/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/3.5.0 Beta 1/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/3.5.0 Beta 1/WinSam.3.NewFunctions.ps1
+O365/Archive/TC Scripts/Winsam/3.5.0 Beta 1/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam-Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam-Main.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.0.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.1.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.10.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.11.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.4.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.5.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.6.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.7.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.8.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.0.9.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.0.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.0.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.0.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.0.Menu2.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.0.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.0.Scratch1.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.0.Scratch2.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.B.2.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.B.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.B.4.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.1.B.5.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.2.B.1.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam2/WinSam.2.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.3/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.3/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.3/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.3/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.3/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.4/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.4/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.4/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.4/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.4/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.5/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.5/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.5/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.5/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.5/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.1/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.1/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.1/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.1/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.1/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.2/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.2/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.2/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.2/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.2/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.3/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.3/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.3/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.3/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.3/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.4/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.4/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.4/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.4/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.6.4/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.7/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.7/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.7/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.7/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.7/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.8/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.8/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.8/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.8/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.8/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.9/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.9/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.9/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.9/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.0.9/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.0/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.0/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.0/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.0/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.0/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.1/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.1/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.1/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.1/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.1/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.2/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.2/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.2/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.2/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.1.2/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.0/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.0/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.0/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.0/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.0/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.1/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.1/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.1/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.1/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/Archive/WinSam3/3.2.1/WinSam.3.ps1
+O365/Archive/TC Scripts/Winsam/Recipient Info.ps1
+O365/Archive/TC Scripts/Winsam/Temp/Get-ObjectInfo.ps1
+O365/Archive/TC Scripts/Winsam/Temp/Mailbox Info 1.ps1
+O365/Archive/TC Scripts/Winsam/Temp/mailbox Info 2.ps1
+O365/Archive/TC Scripts/Winsam/WinSam - Copy Files.ps1
+O365/Archive/TC Scripts/Winsam/WinSam.3.Functions.ps1
+O365/Archive/TC Scripts/Winsam/WinSam.3.GlobalVariables.ps1
+O365/Archive/TC Scripts/Winsam/WinSam.3.Info.ps1
+O365/Archive/TC Scripts/Winsam/WinSam.3.Menu.ps1
+O365/Archive/TC Scripts/Winsam/WinSam.3.NewFunctions.ps1
+O365/Archive/TC Scripts/Winsam/WinSam.3.ps1
+Scripthost-02/batch/Banner/bannerpicturepaths.txt
+Scripthost-02/batch/Banner/copyIDPicturesToBannerShare - Copy.ps1
+Scripthost-02/batch/Banner/copyIDPicturesToBannerShare.ps1
+Scripthost-02/batch/Banner/encrypt.txt
+Scripthost-02/batch/Banner/locksys.txt
+Scripthost-02/batch/Banner/WPIID_AddEveryone.ps1
+Scripthost-02/batch/Banner/WPIID_Sync_Status.ps1
+Scripthost-02/batch/ExchangeMigration/Task_Creation-Post_Migration.ps1
+Scripthost-02/batch/ExchangeMigration/Task_Creation-Migrate_Creation.ps1
+Scripthost-02/batch/ExchangeMigration/Task_Creation-ExchangeTest.ps1
+Scripthost-02/batch/ExchangeMigration/Post-Migration Processes.ps1
+Scripthost-02/batch/ExchangeMigration/Migrate_Local_Mailboxes_Online.ps1
+Scripthost-02/batch/ExchangeMigration/ExchangeTest.ps1
+Scripthost-02/batch/Exchange/UnixForwardCheck/Task_Creation-Check-UnixForwards.ps1
+Scripthost-02/batch/Exchange/UnixForwardCheck/Check-UnixForwards.ps1
+Scripthost-02/batch/IAM/ADExpirations/OLD/EmailExpirations _CIDold.ps1
+Scripthost-02/batch/IAM/ADExpirations/OLD/EmailExpirations-new.ps1
+Scripthost-02/batch/IAM/ADExpirations/OLD/EmailExpirations.ps1
+Scripthost-02/batch/IAM/ADExpirations/OLD/EmailExpirations_CID.ps1
+Scripthost-02/batch/IAM/ADExpirations/OLD/EmailExpirations_original.ps1
+Scripthost-02/batch/IAM/ADExpirations/OLD/Task_Create-EmailExpirations.ps1
+Scripthost-02/batch/IAM/MSOLLicenseAssignment/Task_Create-MSOL_Licenses_Assignment.ps1
+Scripthost-02/batch/IAM/MSOLLicenseAssignment/MSOL_Licenses_Assignment.ps1
+Scripthost-02/powershell/bitlocker/put-in-bitlocker-group.ps1
+Scripthost-02/powershell/Campus Police/cphomes_create_prod.ps1
+Scripthost-02/powershell/Campus Police/cphomes_delete_prod.ps1
+Scripthost-02/powershell/Campus Police/cphomes_permissions_fix_one-time-run.ps1
+Scripthost-02/powershell/CBORD/CBORD_health_check.ps1
+Scripthost-02/powershell/CBORD/CBORD_to_HDStaff_Reports.ps1
+Scripthost-02/powershell/CBORD/CBORD_to_StarRez_Exports_S3_EDITION.ps1
+Scripthost-02/powershell/CBORD/Deprecated/make_creds_SRS.ps1
+Scripthost-02/powershell/CBORD/Deprecated/sftp_file_move_test.ps1
+Scripthost-02/powershell/CBORD/Deprecated/StarRez_File_Helper.ps1
+Scripthost-02/powershell/CBORD/Deprecated/StarRez_File_Helper_CBORD_Exports.ps1
+Scripthost-02/powershell/CBORD/Deprecated/StarRez_File_Helper_CBORD_Exports_SFTP_EDITION.ps1
+Scripthost-02/powershell/CBORD/Deprecated/WD_CBORD_File_Helper_Legacy.ps1
+Scripthost-02/powershell/CBORD/Files/Helpdesk Register Transaction Listing.pdf
+Scripthost-02/powershell/CBORD/Files/IT Printers Transaction Listing.pdf
+Scripthost-02/powershell/CBORD/README.txt
+Scripthost-02/powershell/CBORD/StarRez_to_CBORD_File_Helper.ps1
+Scripthost-02/powershell/CBORD/WD_CBORD_File_Helper_SFTP.ps1
+Scripthost-02/powershell/Clear-ADAccountExpiration/WPI-Clear-ADAccountExpirations.ps1
+Scripthost-02/powershell/CherwellImport/CopyLenelCSV.ps1
+Scripthost-02/powershell/AdobeUserSync/App/reconcile-ad-adobegroups.ps1
+Scripthost-02/powershell/Frame-Capacity/ACTIVE.ps1
+Scripthost-02/powershell/Frame-Capacity/frame-concurrent-alert.ps1
+Scripthost-02/powershell/Frame-Capacity/LAB-HYPERACTIVE.ps1
+Scripthost-02/powershell/Frame-Capacity/populate-frame-access - Copy (2).ps1
+Scripthost-02/powershell/Frame-Capacity/populate-frame-access - Copy.ps1
+Scripthost-02/powershell/Frame-Capacity/populate-frame-access.ps1
+Scripthost-02/powershell/Frame-Capacity/STANDARD.ps1
+Scripthost-02/powershell/Fusion/import-buddy.ps1
+Scripthost-02/powershell/Lenel/Access_Mirroring_PROD.ps1
+Scripthost-02/powershell/Lenel/Cherwell_Badge_Export.ps1
+Scripthost-02/powershell/Lenel/cp-onguard-users-prod.ps1
+Scripthost-02/powershell/Lenel/Delete_Expired_Access.ps1
+Scripthost-02/powershell/Lenel/Deprecated/Access Mirroring_DEV.ps1
+Scripthost-02/powershell/Lenel/Deprecated/Access_Mirroring_PrePROD.ps1
+Scripthost-02/powershell/Lenel/Deprecated/Access_Mirroring_PROD_old(working).ps1
+Scripthost-02/powershell/Lenel/Deprecated/cp-onguard-users-pprod.ps1
+Scripthost-02/powershell/Lenel/Deprecated/lenel_to_cbord_import.ps1
+Scripthost-02/powershell/Lenel/Deprecated/StarRez_Access_DEV_working_but_slow.ps1
+Scripthost-02/powershell/Lenel/Lenel_Add_Major_Access.ps1
+Scripthost-02/powershell/Lenel/lenel_to_cbord_import_SFTP.ps1
+Scripthost-02/powershell/Lenel/One-Offs/fix_blank_extensions_jpg.ps1
+Scripthost-02/powershell/Lenel/One-Offs/Fix_ID_Photos_one-off.ps1
+Scripthost-02/powershell/Lenel/One-Offs/lenel_to_cbord_one-off-fix.ps1
+Scripthost-02/powershell/Lenel/One-Offs/lenel_to_cherwell_one-off.ps1
+Scripthost-02/powershell/Lenel/One-Offs/StarRez_Access_S3.ps1
+Scripthost-02/powershell/Lenel/One-Offs/StarRez_Access_S3_one-off.ps1
+Scripthost-02/powershell/Lenel/StarRez_Access_DEV.ps1
+Scripthost-02/powershell/Lenel/StarRez_Access_S3.ps1
+Scripthost-02/powershell/Lenel/Update_photos.ps1
+Scripthost-02/powershell/PowerFAIDS/func_Copy-SQLDatabase.ps1
+Scripthost-02/powershell/PowerFAIDS/Manual_Refresh_PowerFAIDSDev_DB.ps1
+Scripthost-02/powershell/PowerFAIDS/Refresh_PowerFAIDS_DB.ps1
+Scripthost-02/powershell/reboots/reboot-fuller.ps1
+Scripthost-02/powershell/reboots/reboot-public.ps1
+Scripthost-02/powershell/SAML/list-expiring-certs - Copy.ps1
+Scripthost-02/powershell/SAML/list-expiring-certs.ps1
+Scripthost-02/powershell/SCEP/downloadscepupdates.ps1
+Scripthost-02/powershell/Starrez.backup/cbordsys.txt
+Scripthost-02/powershell/Starrez.backup/ImageExportPOC - Copy.ps1
+Scripthost-02/powershell/Starrez.backup/ImageExportPOC.ps1
+Scripthost-02/powershell/Starrez/ImageExportPOC - Copy.ps1
+Scripthost-02/powershell/Starrez/ImageExportPOC.ps1
+Scripthost-02/powershell/Starrez/StarrezIDPhotoExport.ps1
+Scripthost-02/powershell/Starrez/StarrezIDPhotoExportNEW.ps1
+Scripthost-02/powershell/Starrez/Untitled2.ps1
+Scripthost-02/powershell/Starrez/WPIIDPhotoPath.ps1
+Scripthost-02/powershell/tutortrac-photos/photocopy.ps1
+Scripthost-02/powershell/WinTS/Get-Logon-Stats.ps1
+Scripthost-02/powershell/WinTS/manageTS-cpuload - Copy (2).ps1
+Scripthost-02/powershell/WinTS/manageTS-cpuload - Copy.ps1
+Scripthost-02/powershell/WinTS/manageTS-cpuload.ps1
+Scripthost-02/powershell/WinTS/readme.txt
+Scripthost-02/powershell/WinTS/ts-scrubber - Copy (2).ps1
+Scripthost-02/powershell/WinTS/ts-scrubber - Copy (3).ps1
+Scripthost-02/powershell/WinTS/ts-scrubber - Copy.ps1
+Scripthost-02/powershell/WinTS/ts-scrubber.ps1
+Scripthost-02/powershell/workstations/ancient-log.txt
+Scripthost-02/powershell/workstations/disable-EOL.ps1
+Scripthost-02/powershell/workstations/function-delete-stale.ps1
+Scripthost-02/powershell/workstations/function-delete-staleAZ.ps1
+Scripthost-02/powershell/workstations/function-delete-staleAZ.ps1.bak
+Scripthost-02/powershell/workstations/list-ancient-workstations.ps1
+Scripthost-02/powershell/workstations/movestale-workstations.ps1

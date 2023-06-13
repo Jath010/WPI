@@ -1,0 +1,3376 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20210210081848
+Username: ADMIN\jmgorham2_prv
+RunAs User: ADMIN\jmgorham2_prv
+Machine: SYSOP-UTL-P-W01 (Microsoft Windows NT 10.0.14393.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 12080
+PSVersion: 5.1.14393.3866
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.14393.3866
+BuildVersion: 10.0.14393.3866
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\jmgorham2_prv\WPI\General_use_scripts\JGorham2\DynamicDls\Logs\20210210-0818_AdvisingMgmt.log
+Getting list of all advisors...
+Total advisors: 335
+Checking List for Advisor: aclark
+aclark already has list, syncing...
+ADV-aclark
+currently has
+36
+ members.
+ADV-aclark
+should have
+36
+ members.
+Checking List for Advisor: acrodriguez
+acrodriguez already has list, syncing...
+ADV-acrodriguez
+currently has
+11
+ members.
+ADV-acrodriguez
+should have
+11
+ members.
+Checking List for Advisor: acsabuncu
+acsabuncu already has list, syncing...
+ADV-acsabuncu
+currently has
+35
+ members.
+ADV-acsabuncu
+should have
+35
+ members.
+Checking List for Advisor: acurran
+acurran already has list, syncing...
+ADV-acurran
+currently has
+
+ members.
+ADV-acurran
+should have
+
+ members.
+Checking List for Advisor: adksmith
+adksmith already has list, syncing...
+ADV-adksmith
+currently has
+4
+ members.
+ADV-adksmith
+should have
+4
+ members.
+Checking List for Advisor: aemanuel
+aemanuel already has list, syncing...
+ADV-aemanuel
+currently has
+3
+ members.
+ADV-aemanuel
+should have
+3
+ members.
+Checking List for Advisor: aemattson
+aemattson already has list, syncing...
+ADV-aemattson
+currently has
+12
+ members.
+ADV-aemattson
+should have
+12
+ members.
+Checking List for Advisor: agdixon
+agdixon already has list, syncing...
+ADV-agdixon
+currently has
+18
+ members.
+ADV-agdixon
+should have
+18
+ members.
+Checking List for Advisor: agericke
+agericke already has list, syncing...
+ADV-agericke
+currently has
+9
+ members.
+ADV-agericke
+should have
+9
+ members.
+Checking List for Advisor: agnanaskandan
+agnanaskandan already has list, syncing...
+ADV-agnanaskandan
+currently has
+3
+ members.
+ADV-agnanaskandan
+should have
+3
+ members.
+Checking List for Advisor: ahphillips
+ahphillips already has list, syncing...
+ADV-ahphillips
+currently has
+37
+ members.
+ADV-ahphillips
+should have
+37
+ members.
+Checking List for Advisor: alammert
+alammert already has list, syncing...
+ADV-alammert
+currently has
+10
+ members.
+ADV-alammert
+should have
+10
+ members.
+Checking List for Advisor: alexw
+alexw already has list, syncing...
+ADV-alexw
+currently has
+33
+ members.
+ADV-alexw
+should have
+33
+ members.
+Checking List for Advisor: almanning
+almanning already has list, syncing...
+ADV-almanning
+currently has
+16
+ members.
+ADV-almanning
+should have
+16
+ members.
+Checking List for Advisor: anarnold
+anarnold already has list, syncing...
+ADV-anarnold
+currently has
+7
+ members.
+ADV-anarnold
+should have
+7
+ members.
+Checking List for Advisor: arguello
+arguello already has list, syncing...
+ADV-arguello
+currently has
+8
+ members.
+ADV-arguello
+should have
+8
+ members.
+Checking List for Advisor: aromano
+aromano already has list, syncing...
+ADV-aromano
+currently has
+100
+ members.
+ADV-aromano
+should have
+100
+ members.
+Checking List for Advisor: arsakulich
+arsakulich already has list, syncing...
+ADV-arsakulich
+currently has
+20
+ members.
+ADV-arsakulich
+should have
+20
+ members.
+Checking List for Advisor: arteixeira
+arteixeira already has list, syncing...
+ADV-arteixeira
+currently has
+30
+ members.
+ADV-arteixeira
+should have
+30
+ members.
+Checking List for Advisor: asales
+asales already has list, syncing...
+ADV-asales
+currently has
+4
+ members.
+ADV-asales
+should have
+4
+ members.
+Checking List for Advisor: atrapp
+atrapp already has list, syncing...
+ADV-atrapp
+currently has
+28
+ members.
+ADV-atrapp
+should have
+28
+ members.
+Checking List for Advisor: ayousefi
+ayousefi already has list, syncing...
+ADV-ayousefi
+currently has
+27
+ members.
+ADV-ayousefi
+should have
+27
+ members.
+Checking List for Advisor: azeng
+azeng already has list, syncing...
+ADV-azeng
+currently has
+
+ members.
+ADV-azeng
+should have
+
+ members.
+Checking List for Advisor: azreidinger
+azreidinger already has list, syncing...
+ADV-azreidinger
+currently has
+64
+ members.
+ADV-azreidinger
+should have
+64
+ members.
+Checking List for Advisor: bach
+bach already has list, syncing...
+ADV-bach
+currently has
+7
+ members.
+ADV-bach
+should have
+7
+ members.
+Checking List for Advisor: balnan
+balnan already has list, syncing...
+ADV-balnan
+currently has
+2
+ members.
+ADV-balnan
+should have
+2
+ members.
+Checking List for Advisor: bamiller
+bamiller already has list, syncing...
+ADV-bamiller
+currently has
+53
+ members.
+ADV-bamiller
+should have
+53
+ members.
+Checking List for Advisor: bcalli
+bcalli already has list, syncing...
+ADV-bcalli
+currently has
+58
+ members.
+ADV-bcalli
+should have
+58
+ members.
+Checking List for Advisor: bengisu
+bengisu already has list, syncing...
+ADV-bengisu
+currently has
+15
+ members.
+ADV-bengisu
+should have
+15
+ members.
+Checking List for Advisor: bjs
+bjs already has list, syncing...
+ADV-bjs
+currently has
+27
+ members.
+ADV-bjs
+should have
+27
+ members.
+Checking List for Advisor: blandino
+blandino already has list, syncing...
+ADV-blandino
+currently has
+52
+ members.
+ADV-blandino
+should have
+52
+ members.
+Checking List for Advisor: bmeacham
+bmeacham already has list, syncing...
+ADV-bmeacham
+currently has
+3
+ members.
+ADV-bmeacham
+should have
+3
+ members.
+Checking List for Advisor: bmishra
+bmishra already has list, syncing...
+ADV-bmishra
+currently has
+37
+ members.
+ADV-bmishra
+should have
+37
+ members.
+Checking List for Advisor: bmoriarty
+bmoriarty already has list, syncing...
+ADV-bmoriarty
+currently has
+46
+ members.
+ADV-bmoriarty
+should have
+46
+ members.
+Checking List for Advisor: bpanchapakesan
+bpanchapakesan already has list, syncing...
+ADV-bpanchapakesan
+currently has
+
+ members.
+ADV-bpanchapakesan
+should have
+
+ members.
+Checking List for Advisor: brown
+brown already has list, syncing...
+ADV-brown
+currently has
+46
+ members.
+ADV-brown
+should have
+46
+ members.
+Checking List for Advisor: bservat
+bservat already has list, syncing...
+ADV-bservat
+currently has
+3
+ members.
+ADV-bservat
+should have
+3
+ members.
+Checking List for Advisor: cakeller
+cakeller already has list, syncing...
+ADV-cakeller
+currently has
+
+ members.
+ADV-cakeller
+should have
+
+ members.
+Checking List for Advisor: cbputnam
+cbputnam already has list, syncing...
+ADV-cbputnam
+currently has
+47
+ members.
+ADV-cbputnam
+should have
+47
+ members.
+Checking List for Advisor: cbrown2
+cbrown2 already has list, syncing...
+ADV-cbrown2
+currently has
+4
+ members.
+ADV-cbrown2
+should have
+4
+ members.
+Checking List for Advisor: cdemetry
+cdemetry already has list, syncing...
+ADV-cdemetry
+currently has
+7
+ members.
+ADV-cdemetry
+should have
+7
+ members.
+Checking List for Advisor: cdonal
+cdonal already has list, syncing...
+ADV-cdonal
+currently has
+72
+ members.
+ADV-cdonal
+should have
+72
+ members.
+Checking List for Advisor: cdroberts
+cdroberts already has list, syncing...
+ADV-cdroberts
+currently has
+27
+ members.
+ADV-cdroberts
+should have
+27
+ members.
+Checking List for Advisor: ceggleston
+ceggleston already has list, syncing...
+ADV-ceggleston
+currently has
+4
+ members.
+ADV-ceggleston
+should have
+4
+ members.
+Checking List for Advisor: cew
+cew already has list, syncing...
+ADV-cew
+currently has
+20
+ members.
+ADV-cew
+should have
+20
+ members.
+Checking List for Advisor: cfurlong
+cfurlong already has list, syncing...
+ADV-cfurlong
+currently has
+49
+ members.
+ADV-cfurlong
+should have
+49
+ members.
+Checking List for Advisor: cfwhittington
+cfwhittington already has list, syncing...
+ADV-cfwhittington
+currently has
+36
+ members.
+ADV-cfwhittington
+should have
+36
+ members.
+Checking List for Advisor: ciaraldi
+ciaraldi already has list, syncing...
+ADV-ciaraldi
+currently has
+9
+ members.
+ADV-ciaraldi
+should have
+9
+ members.
+Checking List for Advisor: cjlarsen
+cjlarsen already has list, syncing...
+ADV-cjlarsen
+currently has
+4
+ members.
+ADV-cjlarsen
+should have
+4
+ members.
+Checking List for Advisor: clambert
+clambert already has list, syncing...
+ADV-clambert
+currently has
+14
+ members.
+ADV-clambert
+should have
+14
+ members.
+Checking List for Advisor: claypool
+claypool already has list, syncing...
+ADV-claypool
+currently has
+37
+ members.
+ADV-claypool
+should have
+37
+ members.
+Checking List for Advisor: cngan
+cngan already has list, syncing...
+ADV-cngan
+currently has
+5
+ members.
+ADV-cngan
+should have
+5
+ members.
+Checking List for Advisor: cpinciroli
+cpinciroli already has list, syncing...
+ADV-cpinciroli
+currently has
+58
+ members.
+ADV-cpinciroli
+should have
+58
+ members.
+Checking List for Advisor: cpolsen
+cpolsen already has list, syncing...
+ADV-cpolsen
+currently has
+
+ members.
+ADV-cpolsen
+should have
+
+ members.
+Checking List for Advisor: cshue
+cshue already has list, syncing...
+ADV-cshue
+currently has
+63
+ members.
+ADV-cshue
+should have
+63
+ members.
+Checking List for Advisor: dadams
+dadams already has list, syncing...
+ADV-dadams
+currently has
+
+ members.
+ADV-dadams
+should have
+
+ members.
+Checking List for Advisor: dalbrecht
+dalbrecht already has list, syncing...
+ADV-dalbrecht
+currently has
+23
+ members.
+ADV-dalbrecht
+should have
+23
+ members.
+Checking List for Advisor: dapelian
+dapelian already has list, syncing...
+ADV-dapelian
+currently has
+
+ members.
+ADV-dapelian
+should have
+
+ members.
+Checking List for Advisor: darko
+darko already has list, syncing...
+ADV-darko
+currently has
+7
+ members.
+ADV-darko
+should have
+7
+ members.
+Checking List for Advisor: dbrodeur
+dbrodeur already has list, syncing...
+ADV-dbrodeur
+currently has
+10
+ members.
+ADV-dbrodeur
+should have
+10
+ members.
+Checking List for Advisor: dcb
+dcb already has list, syncing...
+ADV-dcb
+currently has
+3
+ members.
+ADV-dcb
+should have
+3
+ members.
+Checking List for Advisor: dcmedich
+dcmedich already has list, syncing...
+ADV-dcmedich
+currently has
+4
+ members.
+ADV-dcmedich
+should have
+4
+ members.
+Checking List for Advisor: dd
+dd already has list, syncing...
+ADV-dd
+currently has
+89
+ members.
+ADV-dd
+should have
+89
+ members.
+Checking List for Advisor: dfusaro
+dfusaro already has list, syncing...
+ADV-dfusaro
+currently has
+
+ members.
+ADV-dfusaro
+should have
+
+ members.
+Checking List for Advisor: dheilman
+dheilman already has list, syncing...
+ADV-dheilman
+currently has
+19
+ members.
+ADV-dheilman
+should have
+19
+ members.
+Checking List for Advisor: dibiasio
+dibiasio already has list, syncing...
+ADV-dibiasio
+currently has
+23
+ members.
+ADV-dibiasio
+should have
+23
+ members.
+Checking List for Advisor: diment
+diment already has list, syncing...
+ADV-diment
+currently has
+19
+ members.
+ADV-diment
+should have
+19
+ members.
+Checking List for Advisor: djamasbi
+djamasbi already has list, syncing...
+ADV-djamasbi
+currently has
+34
+ members.
+ADV-djamasbi
+should have
+34
+ members.
+Checking List for Advisor: dkorkin
+dkorkin already has list, syncing...
+ADV-dkorkin
+currently has
+23
+ members.
+ADV-dkorkin
+should have
+23
+ members.
+Checking List for Advisor: dkoutmos
+dkoutmos already has list, syncing...
+ADV-dkoutmos
+currently has
+8
+ members.
+ADV-dkoutmos
+should have
+8
+ members.
+Checking List for Advisor: dlcote2
+dlcote2 already has list, syncing...
+ADV-dlcote2
+currently has
+37
+ members.
+ADV-dlcote2
+should have
+37
+ members.
+Checking List for Advisor: dodo
+dodo already has list, syncing...
+ADV-dodo
+currently has
+33
+ members.
+ADV-dodo
+should have
+33
+ members.
+Checking List for Advisor: doyle
+doyle already has list, syncing...
+ADV-doyle
+currently has
+14
+ members.
+ADV-doyle
+should have
+14
+ members.
+Checking List for Advisor: drb
+drb already has list, syncing...
+ADV-drb
+currently has
+28
+ members.
+ADV-drb
+should have
+28
+ members.
+Checking List for Advisor: dstrong
+dstrong already has list, syncing...
+ADV-dstrong
+currently has
+5
+ members.
+ADV-dstrong
+should have
+5
+ members.
+Checking List for Advisor: dtpetkie
+dtpetkie already has list, syncing...
+ADV-dtpetkie
+currently has
+16
+ members.
+ADV-dtpetkie
+should have
+16
+ members.
+Checking List for Advisor: efboucher
+efboucher already has list, syncing...
+ADV-efboucher
+currently has
+
+ members.
+ADV-efboucher
+should have
+
+ members.
+Checking List for Advisor: ejstewart
+ejstewart already has list, syncing...
+ADV-ejstewart
+currently has
+17
+ members.
+ADV-ejstewart
+should have
+17
+ members.
+Checking List for Advisor: ellingo
+ellingo already has list, syncing...
+ADV-ellingo
+currently has
+20
+ members.
+ADV-ellingo
+should have
+20
+ members.
+Checking List for Advisor: eloiacon
+eloiacon already has list, syncing...
+ADV-eloiacon
+currently has
+9
+ members.
+ADV-eloiacon
+should have
+9
+ members.
+Checking List for Advisor: emmanuel
+emmanuel already has list, syncing...
+ADV-emmanuel
+currently has
+50
+ members.
+ADV-emmanuel
+should have
+50
+ members.
+Checking List for Advisor: emyoung
+emyoung already has list, syncing...
+ADV-emyoung
+currently has
+29
+ members.
+ADV-emyoung
+should have
+29
+ members.
+Checking List for Advisor: erjacoby
+erjacoby already has list, syncing...
+ADV-erjacoby
+currently has
+100
+ members.
+ADV-erjacoby
+should have
+100
+ members.
+Checking List for Advisor: erottmar
+erottmar already has list, syncing...
+ADV-erottmar
+currently has
+
+ members.
+ADV-erottmar
+should have
+
+ members.
+Checking List for Advisor: esolovey
+esolovey already has list, syncing...
+ADV-esolovey
+currently has
+26
+ members.
+ADV-esolovey
+should have
+26
+ members.
+Checking List for Advisor: etuzel
+etuzel already has list, syncing...
+ADV-etuzel
+currently has
+9
+ members.
+ADV-etuzel
+should have
+9
+ members.
+Checking List for Advisor: euzunovic
+euzunovic already has list, syncing...
+ADV-euzunovic
+currently has
+
+ members.
+ADV-euzunovic
+should have
+
+ members.
+Checking List for Advisor: fabienne
+fabienne already has list, syncing...
+ADV-fabienne
+currently has
+23
+ members.
+ADV-fabienne
+should have
+23
+ members.
+Checking List for Advisor: fabman
+fabman already has list, syncing...
+ADV-fabman
+currently has
+6
+ members.
+ADV-fabman
+should have
+6
+ members.
+Checking List for Advisor: fbernardi
+fbernardi already has list, syncing...
+ADV-fbernardi
+currently has
+3
+ members.
+ADV-fbernardi
+should have
+3
+ members.
+Checking List for Advisor: fclevey
+fclevey already has list, syncing...
+ADV-fclevey
+currently has
+36
+ members.
+ADV-fclevey
+should have
+36
+ members.
+Checking List for Advisor: fdick
+fdick already has list, syncing...
+ADV-fdick
+currently has
+4
+ members.
+ADV-fdick
+should have
+4
+ members.
+Checking List for Advisor: femdad
+femdad already has list, syncing...
+ADV-femdad
+currently has
+29
+ members.
+ADV-femdad
+should have
+29
+ members.
+Checking List for Advisor: fganji
+fganji already has list, syncing...
+ADV-fganji
+currently has
+7
+ members.
+ADV-fganji
+should have
+7
+ members.
+Checking List for Advisor: fhoy
+fhoy already has list, syncing...
+ADV-fhoy
+currently has
+9
+ members.
+ADV-fhoy
+should have
+9
+ members.
+Checking List for Advisor: fjchery
+fjchery already has list, syncing...
+ADV-fjchery
+currently has
+9
+ members.
+ADV-fjchery
+should have
+9
+ members.
+Checking List for Advisor: funmia
+funmia already has list, syncing...
+ADV-funmia
+currently has
+26
+ members.
+ADV-funmia
+should have
+26
+ members.
+Checking List for Advisor: fwang4
+fwang4 already has list, syncing...
+ADV-fwang4
+currently has
+5
+ members.
+ADV-fwang4
+should have
+5
+ members.
+Checking List for Advisor: gatsonis
+gatsonis already has list, syncing...
+ADV-gatsonis
+currently has
+5
+ members.
+ADV-gatsonis
+should have
+5
+ members.
+Checking List for Advisor: gaudette
+gaudette already has list, syncing...
+ADV-gaudette
+currently has
+9
+ members.
+ADV-gaudette
+should have
+9
+ members.
+Checking List for Advisor: gbsomasse
+gbsomasse already has list, syncing...
+ADV-gbsomasse
+currently has
+
+ members.
+ADV-gbsomasse
+should have
+
+ members.
+Checking List for Advisor: gene
+gene already has list, syncing...
+ADV-gene
+currently has
+3
+ members.
+ADV-gene
+should have
+3
+ members.
+Checking List for Advisor: gfischer
+gfischer already has list, syncing...
+ADV-gfischer
+currently has
+53
+ members.
+ADV-gfischer
+should have
+53
+ members.
+Checking List for Advisor: gjpalmerino
+gjpalmerino already has list, syncing...
+ADV-gjpalmerino
+currently has
+100
+ members.
+ADV-gjpalmerino
+should have
+100
+ members.
+Checking List for Advisor: gkaminski
+gkaminski already has list, syncing...
+ADV-gkaminski
+currently has
+12
+ members.
+ADV-gkaminski
+should have
+12
+ members.
+Checking List for Advisor: glewin
+glewin already has list, syncing...
+ADV-glewin
+currently has
+5
+ members.
+ADV-glewin
+should have
+5
+ members.
+Checking List for Advisor: gmsmith
+gmsmith already has list, syncing...
+ADV-gmsmith
+currently has
+26
+ members.
+ADV-gmsmith
+should have
+26
+ members.
+Checking List for Advisor: goulet
+goulet already has list, syncing...
+ADV-goulet
+currently has
+39
+ members.
+ADV-goulet
+should have
+39
+ members.
+Checking List for Advisor: gpfeifer
+gpfeifer already has list, syncing...
+ADV-gpfeifer
+currently has
+54
+ members.
+ADV-gpfeifer
+should have
+54
+ members.
+Checking List for Advisor: gpins
+gpins already has list, syncing...
+ADV-gpins
+currently has
+42
+ members.
+ADV-gpins
+should have
+42
+ members.
+Checking List for Advisor: gsarkozy
+gsarkozy already has list, syncing...
+ADV-gsarkozy
+currently has
+2
+ members.
+ADV-gsarkozy
+should have
+2
+ members.
+Checking List for Advisor: gsiannac
+gsiannac already has list, syncing...
+ADV-gsiannac
+currently has
+
+ members.
+ADV-gsiannac
+should have
+
+ members.
+Checking List for Advisor: guceri
+guceri already has list, syncing...
+ADV-guceri
+currently has
+47
+ members.
+ADV-guceri
+should have
+47
+ members.
+Checking List for Advisor: gwang2
+gwang2 already has list, syncing...
+ADV-gwang2
+currently has
+10
+ members.
+ADV-gwang2
+should have
+10
+ members.
+Checking List for Advisor: heineman
+heineman already has list, syncing...
+ADV-heineman
+currently has
+36
+ members.
+ADV-heineman
+should have
+36
+ members.
+Removing sstrom@wpi0.onmicrosoft.com from ADV-heineman
+Adding sstrom@wpi.edu to ADV-heineman
+Checking List for Advisor: hhiggins
+hhiggins already has list, syncing...
+ADV-hhiggins
+currently has
+11
+ members.
+ADV-hhiggins
+should have
+11
+ members.
+Checking List for Advisor: hkault
+hkault already has list, syncing...
+ADV-hkault
+currently has
+2
+ members.
+ADV-hkault
+should have
+2
+ members.
+Checking List for Advisor: hou
+hou already has list, syncing...
+ADV-hou
+currently has
+70
+ members.
+ADV-hou
+should have
+70
+ members.
+Checking List for Advisor: hwwalker
+hwwalker already has list, syncing...
+ADV-hwwalker
+currently has
+12
+ members.
+ADV-hwwalker
+should have
+12
+ members.
+Checking List for Advisor: hzhang10
+hzhang10 already has list, syncing...
+ADV-hzhang10
+currently has
+23
+ members.
+ADV-hzhang10
+should have
+23
+ members.
+Checking List for Advisor: iarroyo
+iarroyo already has list, syncing...
+ADV-iarroyo
+currently has
+4
+ members.
+ADV-iarroyo
+should have
+4
+ members.
+Checking List for Advisor: ibaron
+ibaron already has list, syncing...
+ADV-ibaron
+currently has
+3
+ members.
+ADV-ibaron
+should have
+3
+ members.
+Checking List for Advisor: izabela
+izabela already has list, syncing...
+ADV-izabela
+currently has
+12
+ members.
+ADV-izabela
+should have
+12
+ members.
+Checking List for Advisor: jabraham
+jabraham already has list, syncing...
+ADV-jabraham
+currently has
+16
+ members.
+ADV-jabraham
+should have
+16
+ members.
+Checking List for Advisor: japarissiforti
+japarissiforti already has list, syncing...
+ADV-japarissiforti
+currently has
+
+ members.
+ADV-japarissiforti
+should have
+
+ members.
+Checking List for Advisor: jastabile
+jastabile already has list, syncing...
+ADV-jastabile
+currently has
+19
+ members.
+ADV-jastabile
+should have
+19
+ members.
+Checking List for Advisor: jberg
+jberg already has list, syncing...
+ADV-jberg
+currently has
+32
+ members.
+ADV-jberg
+should have
+32
+ members.
+Checking List for Advisor: jcm
+jcm already has list, syncing...
+ADV-jcm
+currently has
+14
+ members.
+ADV-jcm
+should have
+14
+ members.
+Checking List for Advisor: jddudle
+jddudle already has list, syncing...
+ADV-jddudle
+currently has
+25
+ members.
+ADV-jddudle
+should have
+25
+ members.
+Checking List for Advisor: jdewinter
+jdewinter already has list, syncing...
+ADV-jdewinter
+currently has
+17
+ members.
+ADV-jdewinter
+should have
+17
+ members.
+Checking List for Advisor: jdittami
+jdittami already has list, syncing...
+ADV-jdittami
+currently has
+5
+ members.
+ADV-jdittami
+should have
+5
+ members.
+Checking List for Advisor: jduffy
+jduffy already has list, syncing...
+ADV-jduffy
+currently has
+6
+ members.
+ADV-jduffy
+should have
+6
+ members.
+Checking List for Advisor: jfu2
+jfu2 already has list, syncing...
+ADV-jfu2
+currently has
+34
+ members.
+ADV-jfu2
+should have
+34
+ members.
+Checking List for Advisor: jianyul
+jianyul already has list, syncing...
+ADV-jianyul
+currently has
+35
+ members.
+ADV-jianyul
+should have
+35
+ members.
+Checking List for Advisor: jjayachandran
+jjayachandran already has list, syncing...
+ADV-jjayachandran
+currently has
+27
+ members.
+ADV-jjayachandran
+should have
+27
+ members.
+Checking List for Advisor: jlszivos
+jlszivos already has list, syncing...
+ADV-jlszivos
+currently has
+3
+ members.
+ADV-jlszivos
+should have
+3
+ members.
+Checking List for Advisor: jmboyd
+jmboyd already has list, syncing...
+ADV-jmboyd
+currently has
+
+ members.
+ADV-jmboyd
+should have
+
+ members.
+Checking List for Advisor: jmcoburn
+jmcoburn already has list, syncing...
+ADV-jmcoburn
+currently has
+48
+ members.
+ADV-jmcoburn
+should have
+48
+ members.
+Checking List for Advisor: jmcuneo
+jmcuneo already has list, syncing...
+ADV-jmcuneo
+currently has
+14
+ members.
+ADV-jmcuneo
+should have
+14
+ members.
+Checking List for Advisor: jmcweeny
+jmcweeny already has list, syncing...
+ADV-jmcweeny
+currently has
+
+ members.
+ADV-jmcweeny
+should have
+
+ members.
+Checking List for Advisor: josephbeck
+josephbeck already has list, syncing...
+ADV-josephbeck
+currently has
+40
+ members.
+ADV-josephbeck
+should have
+40
+ members.
+Checking List for Advisor: jrosenstock
+jrosenstock already has list, syncing...
+ADV-jrosenstock
+currently has
+6
+ members.
+ADV-jrosenstock
+should have
+6
+ members.
+Checking List for Advisor: jrulfs
+jrulfs already has list, syncing...
+ADV-jrulfs
+currently has
+11
+ members.
+ADV-jrulfs
+should have
+11
+ members.
+Checking List for Advisor: jrwhitehill
+jrwhitehill already has list, syncing...
+ADV-jrwhitehill
+currently has
+28
+ members.
+ADV-jrwhitehill
+should have
+28
+ members.
+Checking List for Advisor: jryan
+jryan already has list, syncing...
+ADV-jryan
+currently has
+
+ members.
+ADV-jryan
+should have
+
+ members.
+Checking List for Advisor: jsarkis
+jsarkis already has list, syncing...
+ADV-jsarkis
+currently has
+33
+ members.
+ADV-jsarkis
+should have
+33
+ members.
+Checking List for Advisor: jskarner
+jskarner already has list, syncing...
+ADV-jskarner
+currently has
+100
+ members.
+ADV-jskarner
+should have
+100
+ members.
+Checking List for Advisor: jsrinivasan
+jsrinivasan already has list, syncing...
+ADV-jsrinivasan
+currently has
+15
+ members.
+ADV-jsrinivasan
+should have
+15
+ members.
+Checking List for Advisor: jweinstock
+jweinstock already has list, syncing...
+ADV-jweinstock
+currently has
+27
+ members.
+ADV-jweinstock
+should have
+27
+ members.
+Checking List for Advisor: jwpavlik
+jwpavlik already has list, syncing...
+ADV-jwpavlik
+currently has
+
+ members.
+ADV-jwpavlik
+should have
+
+ members.
+Checking List for Advisor: jxiao2
+jxiao2 already has list, syncing...
+ADV-jxiao2
+currently has
+30
+ members.
+ADV-jxiao2
+should have
+30
+ members.
+Checking List for Advisor: jyagoobi
+jyagoobi already has list, syncing...
+ADV-jyagoobi
+currently has
+3
+ members.
+ADV-jyagoobi
+should have
+3
+ members.
+Checking List for Advisor: jzhu
+jzhu already has list, syncing...
+ADV-jzhu
+currently has
+5
+ members.
+ADV-jzhu
+should have
+5
+ members.
+Checking List for Advisor: jzou
+jzou already has list, syncing...
+ADV-jzou
+currently has
+10
+ members.
+ADV-jzou
+should have
+10
+ members.
+Checking List for Advisor: kaelmes
+kaelmes already has list, syncing...
+ADV-kaelmes
+currently has
+4
+ members.
+ADV-kaelmes
+should have
+4
+ members.
+Checking List for Advisor: kanfpe
+kanfpe already has list, syncing...
+ADV-kanfpe
+currently has
+100
+ members.
+ADV-kanfpe
+should have
+100
+ members.
+Checking List for Advisor: kaveh
+kaveh already has list, syncing...
+ADV-kaveh
+currently has
+30
+ members.
+ADV-kaveh
+should have
+30
+ members.
+Checking List for Advisor: kbilliar
+kbilliar already has list, syncing...
+ADV-kbilliar
+currently has
+31
+ members.
+ADV-kbilliar
+should have
+31
+ members.
+Checking List for Advisor: kjr
+kjr already has list, syncing...
+ADV-kjr
+currently has
+18
+ members.
+ADV-kjr
+should have
+18
+ members.
+Checking List for Advisor: klee
+klee already has list, syncing...
+ADV-klee
+currently has
+
+ members.
+ADV-klee
+should have
+
+ members.
+Checking List for Advisor: kmlee
+kmlee already has list, syncing...
+ADV-kmlee
+currently has
+21
+ members.
+ADV-kmlee
+should have
+21
+ members.
+Checking List for Advisor: kmlewis
+kmlewis already has list, syncing...
+ADV-kmlewis
+currently has
+22
+ members.
+ADV-kmlewis
+should have
+22
+ members.
+Checking List for Advisor: kmus
+kmus already has list, syncing...
+ADV-kmus
+currently has
+14
+ members.
+ADV-kmus
+should have
+14
+ members.
+Checking List for Advisor: kohles
+kohles already has list, syncing...
+ADV-kohles
+currently has
+
+ members.
+ADV-kohles
+should have
+
+ members.
+Checking List for Advisor: krueger
+krueger already has list, syncing...
+ADV-krueger
+currently has
+22
+ members.
+ADV-krueger
+should have
+22
+ members.
+Checking List for Advisor: ktroy
+ktroy already has list, syncing...
+ADV-ktroy
+currently has
+26
+ members.
+ADV-ktroy
+should have
+26
+ members.
+Checking List for Advisor: kumar
+kumar already has list, syncing...
+ADV-kumar
+currently has
+3
+ members.
+ADV-kumar
+should have
+3
+ members.
+Checking List for Advisor: kwu
+kwu already has list, syncing...
+ADV-kwu
+currently has
+
+ members.
+ADV-kwu
+should have
+
+ members.
+Checking List for Advisor: kzizza
+kzizza already has list, syncing...
+ADV-kzizza
+currently has
+2
+ members.
+ADV-kzizza
+should have
+2
+ members.
+Checking List for Advisor: lados
+lados already has list, syncing...
+ADV-lados
+currently has
+47
+ members.
+ADV-lados
+should have
+47
+ members.
+Checking List for Advisor: laila
+laila already has list, syncing...
+ADV-laila
+currently has
+6
+ members.
+ADV-laila
+should have
+6
+ members.
+Checking List for Advisor: laroberts
+laroberts already has list, syncing...
+ADV-laroberts
+currently has
+16
+ members.
+ADV-laroberts
+should have
+16
+ members.
+Checking List for Advisor: lcapogna
+lcapogna already has list, syncing...
+ADV-lcapogna
+currently has
+2
+ members.
+ADV-lcapogna
+should have
+2
+ members.
+Checking List for Advisor: ldalbano
+ldalbano already has list, syncing...
+ADV-ldalbano
+currently has
+24
+ members.
+ADV-ldalbano
+should have
+24
+ members.
+Checking List for Advisor: ldecarli
+ldecarli already has list, syncing...
+ADV-ldecarli
+currently has
+32
+ members.
+ADV-ldecarli
+should have
+32
+ members.
+Checking List for Advisor: lelgert
+lelgert already has list, syncing...
+ADV-lelgert
+currently has
+4
+ members.
+ADV-lelgert
+should have
+4
+ members.
+Checking List for Advisor: lfichera
+lfichera already has list, syncing...
+ADV-lfichera
+currently has
+43
+ members.
+ADV-lfichera
+should have
+43
+ members.
+Checking List for Advisor: lmathews
+lmathews already has list, syncing...
+ADV-lmathews
+currently has
+21
+ members.
+ADV-lmathews
+should have
+21
+ members.
+Checking List for Advisor: lrram
+lrram already has list, syncing...
+ADV-lrram
+currently has
+3
+ members.
+ADV-lrram
+should have
+3
+ members.
+Checking List for Advisor: ltharrison
+ltharrison already has list, syncing...
+ADV-ltharrison
+currently has
+41
+ members.
+ADV-ltharrison
+should have
+41
+ members.
+Checking List for Advisor: ltitova
+ltitova already has list, syncing...
+ADV-ltitova
+currently has
+18
+ members.
+ADV-ltitova
+should have
+18
+ members.
+Checking List for Advisor: ludwig
+ludwig already has list, syncing...
+ADV-ludwig
+currently has
+13
+ members.
+ADV-ludwig
+should have
+13
+ members.
+Checking List for Advisor: lvidali
+lvidali already has list, syncing...
+ADV-lvidali
+currently has
+10
+ members.
+ADV-lvidali
+should have
+10
+ members.
+Checking List for Advisor: mabhatia
+mabhatia already has list, syncing...
+ADV-mabhatia
+currently has
+43
+ members.
+ADV-mabhatia
+should have
+43
+ members.
+Checking List for Advisor: makarov
+makarov already has list, syncing...
+ADV-makarov
+currently has
+29
+ members.
+ADV-makarov
+should have
+29
+ members.
+Checking List for Advisor: mamissah
+mamissah already has list, syncing...
+ADV-mamissah
+currently has
+16
+ members.
+ADV-mamissah
+should have
+16
+ members.
+Checking List for Advisor: mamughal
+mamughal already has list, syncing...
+ADV-mamughal
+currently has
+23
+ members.
+ADV-mamughal
+should have
+23
+ members.
+Checking List for Advisor: martin
+martin already has list, syncing...
+ADV-martin
+currently has
+4
+ members.
+ADV-martin
+should have
+4
+ members.
+Checking List for Advisor: mathisen
+mathisen already has list, syncing...
+ADV-mathisen
+currently has
+27
+ members.
+ADV-mathisen
+should have
+27
+ members.
+Checking List for Advisor: mbakermans
+mbakermans already has list, syncing...
+ADV-mbakermans
+currently has
+5
+ members.
+ADV-mbakermans
+should have
+5
+ members.
+Checking List for Advisor: mbelmes
+mbelmes already has list, syncing...
+ADV-mbelmes
+currently has
+41
+ members.
+ADV-mbelmes
+should have
+41
+ members.
+Checking List for Advisor: mbuckhol
+mbuckhol already has list, syncing...
+ADV-mbuckhol
+currently has
+11
+ members.
+ADV-mbuckhol
+should have
+11
+ members.
+Checking List for Advisor: mdemetri
+mdemetri already has list, syncing...
+ADV-mdemetri
+currently has
+36
+ members.
+ADV-mdemetri
+should have
+36
+ members.
+Checking List for Advisor: meltabakh
+meltabakh already has list, syncing...
+ADV-meltabakh
+currently has
+38
+ members.
+ADV-meltabakh
+should have
+38
+ members.
+Checking List for Advisor: mengling
+mengling already has list, syncing...
+ADV-mengling
+currently has
+29
+ members.
+ADV-mengling
+should have
+29
+ members.
+Removing ssundararajan@wpi.edu from ADV-mengling
+Adding nsundararajan@wpi.edu to ADV-mengling
+Checking List for Advisor: mfarzinmoghadam
+mfarzinmoghadam already has list, syncing...
+ADV-mfarzinmoghadam
+currently has
+34
+ members.
+ADV-mfarzinmoghadam
+should have
+34
+ members.
+Checking List for Advisor: mfuller
+mfuller already has list, syncing...
+ADV-mfuller
+currently has
+
+ members.
+ADV-mfuller
+should have
+
+ members.
+Checking List for Advisor: michaelg
+michaelg already has list, syncing...
+ADV-michaelg
+currently has
+57
+ members.
+ADV-michaelg
+should have
+57
+ members.
+Checking List for Advisor: milosh
+milosh already has list, syncing...
+ADV-milosh
+currently has
+5
+ members.
+ADV-milosh
+should have
+5
+ members.
+Checking List for Advisor: mmaghelih
+mmaghelih already has list, syncing...
+ADV-mmaghelih
+currently has
+8
+ members.
+ADV-mmaghelih
+should have
+8
+ members.
+Checking List for Advisor: mmm
+mmm already has list, syncing...
+ADV-mmm
+currently has
+39
+ members.
+ADV-mmm
+should have
+39
+ members.
+Checking List for Advisor: mnemitz
+mnemitz already has list, syncing...
+ADV-mnemitz
+currently has
+2
+ members.
+ADV-mnemitz
+should have
+2
+ members.
+Checking List for Advisor: mpopovic
+mpopovic already has list, syncing...
+ADV-mpopovic
+currently has
+26
+ members.
+ADV-mpopovic
+should have
+26
+ members.
+Checking List for Advisor: mrichman
+mrichman already has list, syncing...
+ADV-mrichman
+currently has
+8
+ members.
+ADV-mrichman
+should have
+8
+ members.
+Checking List for Advisor: mrjohn
+mrjohn already has list, syncing...
+ADV-mrjohn
+currently has
+3
+ members.
+ADV-mrjohn
+should have
+3
+ members.
+Checking List for Advisor: mrolle
+mrolle already has list, syncing...
+ADV-mrolle
+currently has
+41
+ members.
+ADV-mrolle
+should have
+41
+ members.
+Checking List for Advisor: msarkis
+msarkis already has list, syncing...
+ADV-msarkis
+currently has
+3
+ members.
+ADV-msarkis
+should have
+3
+ members.
+Checking List for Advisor: msfofana
+msfofana already has list, syncing...
+ADV-msfofana
+currently has
+33
+ members.
+ADV-msfofana
+should have
+33
+ members.
+Checking List for Advisor: mttimko
+mttimko already has list, syncing...
+ADV-mttimko
+currently has
+29
+ members.
+ADV-mttimko
+should have
+29
+ members.
+Checking List for Advisor: mwu2
+mwu2 already has list, syncing...
+ADV-mwu2
+currently has
+5
+ members.
+ADV-mwu2
+should have
+5
+ members.
+Checking List for Advisor: myblais
+myblais already has list, syncing...
+ADV-myblais
+currently has
+14
+ members.
+ADV-myblais
+should have
+14
+ members.
+Checking List for Advisor: nab
+nab already has list, syncing...
+ADV-nab
+currently has
+
+ members.
+ADV-nab
+should have
+
+ members.
+Checking List for Advisor: nadeskins
+nadeskins already has list, syncing...
+ADV-nadeskins
+currently has
+22
+ members.
+ADV-nadeskins
+should have
+22
+ members.
+Checking List for Advisor: nbertozzi
+nbertozzi already has list, syncing...
+ADV-nbertozzi
+currently has
+76
+ members.
+ADV-nbertozzi
+should have
+76
+ members.
+Checking List for Advisor: ndembsey
+ndembsey already has list, syncing...
+ADV-ndembsey
+currently has
+6
+ members.
+ADV-ndembsey
+should have
+6
+ members.
+Checking List for Advisor: nfarny
+nfarny already has list, syncing...
+ADV-nfarny
+currently has
+13
+ members.
+ADV-nfarny
+should have
+13
+ members.
+Checking List for Advisor: nikolas
+nikolas already has list, syncing...
+ADV-nikolas
+currently has
+24
+ members.
+ADV-nikolas
+should have
+24
+ members.
+Checking List for Advisor: nkaranjgaokar
+nkaranjgaokar already has list, syncing...
+ADV-nkaranjgaokar
+currently has
+30
+ members.
+ADV-nkaranjgaokar
+should have
+30
+ members.
+Checking List for Advisor: nkordzadeh
+nkordzadeh already has list, syncing...
+ADV-nkordzadeh
+currently has
+18
+ members.
+ADV-nkordzadeh
+should have
+18
+ members.
+Checking List for Advisor: nmanterni
+nmanterni already has list, syncing...
+ADV-nmanterni
+currently has
+
+ members.
+ADV-nmanterni
+should have
+
+ members.
+Checking List for Advisor: nrahbar
+nrahbar already has list, syncing...
+ADV-nrahbar
+currently has
+26
+ members.
+ADV-nrahbar
+should have
+26
+ members.
+Checking List for Advisor: nth
+nth already has list, syncing...
+ADV-nth
+currently has
+59
+ members.
+ADV-nth
+should have
+59
+ members.
+Checking List for Advisor: nwilkins
+nwilkins already has list, syncing...
+ADV-nwilkins
+currently has
+3
+ members.
+ADV-nwilkins
+should have
+3
+ members.
+Checking List for Advisor: olinger
+olinger already has list, syncing...
+ADV-olinger
+currently has
+43
+ members.
+ADV-olinger
+should have
+43
+ members.
+Checking List for Advisor: omangoubi
+omangoubi already has list, syncing...
+ADV-omangoubi
+currently has
+5
+ members.
+ADV-omangoubi
+should have
+5
+ members.
+Checking List for Advisor: paravind
+paravind already has list, syncing...
+ADV-paravind
+currently has
+4
+ members.
+ADV-paravind
+should have
+4
+ members.
+Checking List for Advisor: peneumann
+peneumann already has list, syncing...
+ADV-peneumann
+currently has
+
+ members.
+ADV-peneumann
+should have
+
+ members.
+Checking List for Advisor: phansen
+phansen already has list, syncing...
+ADV-phansen
+currently has
+8
+ members.
+ADV-phansen
+should have
+8
+ members.
+Checking List for Advisor: planchard
+planchard already has list, syncing...
+ADV-planchard
+currently has
+26
+ members.
+ADV-planchard
+should have
+26
+ members.
+Checking List for Advisor: pmguida
+pmguida already has list, syncing...
+ADV-pmguida
+currently has
+
+ members.
+ADV-pmguida
+should have
+
+ members.
+Checking List for Advisor: pmrao
+pmrao already has list, syncing...
+ADV-pmrao
+currently has
+27
+ members.
+ADV-pmrao
+should have
+27
+ members.
+Checking List for Advisor: pocathain
+pocathain already has list, syncing...
+ADV-pocathain
+currently has
+9
+ members.
+ADV-pocathain
+should have
+9
+ members.
+Checking List for Advisor: posterro
+posterro already has list, syncing...
+ADV-posterro
+currently has
+21
+ members.
+ADV-posterro
+should have
+21
+ members.
+Checking List for Advisor: pradhakrishnan
+pradhakrishnan already has list, syncing...
+ADV-pradhakrishnan
+currently has
+18
+ members.
+ADV-pradhakrishnan
+should have
+18
+ members.
+Checking List for Advisor: preilly
+preilly already has list, syncing...
+ADV-preilly
+currently has
+100
+ members.
+ADV-preilly
+should have
+100
+ members.
+Checking List for Advisor: pschaumont
+pschaumont already has list, syncing...
+ADV-pschaumont
+currently has
+15
+ members.
+ADV-pschaumont
+should have
+15
+ members.
+Checking List for Advisor: pshah
+pshah already has list, syncing...
+ADV-pshah
+currently has
+12
+ members.
+ADV-pshah
+should have
+12
+ members.
+Removing psullivan@wpi0.onmicrosoft.com from ADV-pshah
+Adding psullivan@wpi.edu to ADV-pshah
+Checking List for Advisor: qsong
+qsong already has list, syncing...
+ADV-qsong
+currently has
+4
+ members.
+ADV-qsong
+should have
+4
+ members.
+Checking List for Advisor: qwen
+qwen already has list, syncing...
+ADV-qwen
+currently has
+11
+ members.
+ADV-qwen
+should have
+11
+ members.
+Checking List for Advisor: racampo
+racampo already has list, syncing...
+ADV-racampo
+currently has
+100
+ members.
+ADV-racampo
+should have
+100
+ members.
+Checking List for Advisor: rajib
+rajib already has list, syncing...
+ADV-rajib
+currently has
+24
+ members.
+ADV-rajib
+should have
+24
+ members.
+Checking List for Advisor: rangwala
+rangwala already has list, syncing...
+ADV-rangwala
+currently has
+10
+ members.
+ADV-rangwala
+should have
+10
+ members.
+Checking List for Advisor: rcpaffenroth
+rcpaffenroth already has list, syncing...
+ADV-rcpaffenroth
+currently has
+17
+ members.
+ADV-rcpaffenroth
+should have
+17
+ members.
+Checking List for Advisor: rdaniello
+rdaniello already has list, syncing...
+ADV-rdaniello
+currently has
+42
+ members.
+ADV-rdaniello
+should have
+42
+ members.
+Checking List for Advisor: rdempski
+rdempski already has list, syncing...
+ADV-rdempski
+currently has
+11
+ members.
+ADV-rdempski
+should have
+11
+ members.
+Checking List for Advisor: rdheard
+rdheard already has list, syncing...
+ADV-rdheard
+currently has
+
+ members.
+ADV-rdheard
+should have
+
+ members.
+Checking List for Advisor: rezaz
+rezaz already has list, syncing...
+ADV-rezaz
+currently has
+5
+ members.
+ADV-rezaz
+should have
+5
+ members.
+Checking List for Advisor: rhegedus
+rhegedus already has list, syncing...
+ADV-rhegedus
+currently has
+
+ members.
+ADV-rhegedus
+should have
+
+ members.
+Checking List for Advisor: rich
+rich already has list, syncing...
+ADV-rich
+currently has
+9
+ members.
+ADV-rich
+should have
+9
+ members.
+Checking List for Advisor: rjduck
+rjduck already has list, syncing...
+ADV-rjduck
+currently has
+2
+ members.
+ADV-rjduck
+should have
+2
+ members.
+Checking List for Advisor: rjwalls
+rjwalls already has list, syncing...
+ADV-rjwalls
+currently has
+28
+ members.
+ADV-rjwalls
+should have
+28
+ members.
+Checking List for Advisor: rkonrad
+rkonrad already has list, syncing...
+ADV-rkonrad
+currently has
+24
+ members.
+ADV-rkonrad
+should have
+24
+ members.
+Checking List for Advisor: rneamtu
+rneamtu already has list, syncing...
+ADV-rneamtu
+currently has
+30
+ members.
+ADV-rneamtu
+should have
+30
+ members.
+Checking List for Advisor: rpage
+rpage already has list, syncing...
+ADV-rpage
+currently has
+34
+ members.
+ADV-rpage
+should have
+34
+ members.
+Checking List for Advisor: rpk101
+rpk101 already has list, syncing...
+ADV-rpk101
+currently has
+4
+ members.
+ADV-rpk101
+should have
+4
+ members.
+Checking List for Advisor: rpr
+rpr already has list, syncing...
+ADV-rpr
+currently has
+15
+ members.
+ADV-rpr
+should have
+15
+ members.
+Checking List for Advisor: rsarnie
+rsarnie already has list, syncing...
+ADV-rsarnie
+currently has
+2
+ members.
+ADV-rsarnie
+should have
+2
+ members.
+Checking List for Advisor: rsquimby
+rsquimby already has list, syncing...
+ADV-rsquimby
+currently has
+9
+ members.
+ADV-rsquimby
+should have
+9
+ members.
+Checking List for Advisor: rsutter
+rsutter already has list, syncing...
+ADV-rsutter
+currently has
+34
+ members.
+ADV-rsutter
+should have
+34
+ members.
+Checking List for Advisor: ruiz
+ruiz already has list, syncing...
+ADV-ruiz
+currently has
+37
+ members.
+ADV-ruiz
+should have
+37
+ members.
+Checking List for Advisor: rundenst
+rundenst already has list, syncing...
+ADV-rundenst
+currently has
+56
+ members.
+ADV-rundenst
+should have
+56
+ members.
+Checking List for Advisor: rvcowlagi
+rvcowlagi already has list, syncing...
+ADV-rvcowlagi
+currently has
+38
+ members.
+ADV-rvcowlagi
+should have
+38
+ members.
+Checking List for Advisor: ryder
+ryder already has list, syncing...
+ADV-ryder
+currently has
+36
+ members.
+ADV-ryder
+should have
+36
+ members.
+Checking List for Advisor: salazar
+salazar already has list, syncing...
+ADV-salazar
+currently has
+14
+ members.
+ADV-salazar
+should have
+14
+ members.
+Checking List for Advisor: salessing
+salessing already has list, syncing...
+ADV-salessing
+currently has
+
+ members.
+ADV-salessing
+should have
+
+ members.
+Checking List for Advisor: sambady
+sambady already has list, syncing...
+ADV-sambady
+currently has
+70
+ members.
+ADV-sambady
+should have
+70
+ members.
+Checking List for Advisor: sawulf
+sawulf already has list, syncing...
+ADV-sawulf
+currently has
+7
+ members.
+ADV-sawulf
+should have
+7
+ members.
+Checking List for Advisor: scburdette
+scburdette already has list, syncing...
+ADV-scburdette
+currently has
+15
+ members.
+ADV-scburdette
+should have
+15
+ members.
+Checking List for Advisor: sdolson
+sdolson already has list, syncing...
+ADV-sdolson
+currently has
+17
+ members.
+ADV-sdolson
+should have
+17
+ members.
+Checking List for Advisor: sfscarlata
+sfscarlata already has list, syncing...
+ADV-sfscarlata
+currently has
+14
+ members.
+ADV-sfscarlata
+should have
+14
+ members.
+Checking List for Advisor: sharon
+sharon already has list, syncing...
+ADV-sharon
+currently has
+24
+ members.
+ADV-sharon
+should have
+24
+ members.
+Checking List for Advisor: shivkuma
+shivkuma already has list, syncing...
+ADV-shivkuma
+currently has
+36
+ members.
+ADV-shivkuma
+should have
+36
+ members.
+Checking List for Advisor: sisson
+sisson already has list, syncing...
+ADV-sisson
+currently has
+40
+ members.
+ADV-sisson
+should have
+40
+ members.
+Checking List for Advisor: sjbitar
+sjbitar already has list, syncing...
+ADV-sjbitar
+currently has
+20
+ members.
+ADV-sjbitar
+should have
+20
+ members.
+Checking List for Advisor: sji
+sji already has list, syncing...
+ADV-sji
+currently has
+37
+ members.
+ADV-sji
+should have
+37
+ members.
+Checking List for Advisor: sjkmiotek
+sjkmiotek already has list, syncing...
+ADV-sjkmiotek
+currently has
+54
+ members.
+ADV-sjkmiotek
+should have
+54
+ members.
+Checking List for Advisor: skorinko
+skorinko already has list, syncing...
+ADV-skorinko
+currently has
+22
+ members.
+ADV-skorinko
+should have
+22
+ members.
+Checking List for Advisor: slepage
+slepage already has list, syncing...
+ADV-slepage
+currently has
+25
+ members.
+ADV-slepage
+should have
+25
+ members.
+Checking List for Advisor: sliu8
+sliu8 already has list, syncing...
+ADV-sliu8
+currently has
+22
+ members.
+ADV-sliu8
+should have
+22
+ members.
+Checking List for Advisor: smensah
+smensah already has list, syncing...
+ADV-smensah
+currently has
+20
+ members.
+ADV-smensah
+should have
+20
+ members.
+Checking List for Advisor: spnarra
+spnarra already has list, syncing...
+ADV-spnarra
+currently has
+10
+ members.
+ADV-spnarra
+should have
+10
+ members.
+Checking List for Advisor: sramabhotla
+sramabhotla already has list, syncing...
+ADV-sramabhotla
+currently has
+3
+ members.
+ADV-sramabhotla
+should have
+3
+ members.
+Checking List for Advisor: sriddick
+sriddick already has list, syncing...
+ADV-sriddick
+currently has
+23
+ members.
+ADV-sriddick
+should have
+23
+ members.
+Checking List for Advisor: ssaberi
+ssaberi already has list, syncing...
+ADV-ssaberi
+currently has
+24
+ members.
+ADV-ssaberi
+should have
+24
+ members.
+Checking List for Advisor: ssantiago
+ssantiago already has list, syncing...
+ADV-ssantiago
+currently has
+
+ members.
+ADV-ssantiago
+should have
+
+ members.
+Checking List for Advisor: sshell
+sshell already has list, syncing...
+ADV-sshell
+currently has
+15
+ members.
+ADV-sshell
+should have
+15
+ members.
+Checking List for Advisor: sst
+sst already has list, syncing...
+PS>TerminatingError(Get-AzureADGroupMember): "Cannot convert 'System.Object[]' to the type 'System.String' required by parameter 'ObjectId'. Specified method is not supported."
+Specified method is not supported.
+Checking List for Advisor: ssturm
+ssturm already has list, syncing...
+ADV-ssturm
+currently has
+7
+ members.
+ADV-ssturm
+should have
+7
+ members.
+Checking List for Advisor: ssvirani
+ssvirani already has list, syncing...
+ADV-ssvirani
+currently has
+3
+ members.
+ADV-ssvirani
+should have
+3
+ members.
+Checking List for Advisor: sullivan
+sullivan already has list, syncing...
+ADV-sullivan
+currently has
+32
+ members.
+ADV-sullivan
+should have
+32
+ members.
+Checking List for Advisor: sunar
+sunar already has list, syncing...
+ADV-sunar
+currently has
+34
+ members.
+ADV-sunar
+should have
+34
+ members.
+Checking List for Advisor: svandessel
+svandessel already has list, syncing...
+ADV-svandessel
+currently has
+30
+ members.
+ADV-svandessel
+should have
+30
+ members.
+Checking List for Advisor: swalcott
+swalcott already has list, syncing...
+ADV-swalcott
+currently has
+7
+ members.
+ADV-swalcott
+should have
+7
+ members.
+Checking List for Advisor: sweekes
+sweekes already has list, syncing...
+ADV-sweekes
+currently has
+4
+ members.
+ADV-sweekes
+should have
+4
+ members.
+Checking List for Advisor: swodinschwartz
+swodinschwartz already has list, syncing...
+ADV-swodinschwartz
+currently has
+40
+ members.
+ADV-swodinschwartz
+should have
+40
+ members.
+Checking List for Advisor: szhou
+szhou already has list, syncing...
+ADV-szhou
+currently has
+27
+ members.
+ADV-szhou
+should have
+27
+ members.
+Checking List for Advisor: taomj
+taomj already has list, syncing...
+ADV-taomj
+currently has
+27
+ members.
+ADV-taomj
+should have
+27
+ members.
+Checking List for Advisor: tbpeiris
+tbpeiris already has list, syncing...
+ADV-tbpeiris
+currently has
+19
+ members.
+ADV-tbpeiris
+should have
+19
+ members.
+Checking List for Advisor: tbutler
+tbutler already has list, syncing...
+ADV-tbutler
+currently has
+25
+ members.
+ADV-tbutler
+should have
+25
+ members.
+Checking List for Advisor: tdominko
+tdominko already has list, syncing...
+ADV-tdominko
+currently has
+13
+ members.
+ADV-tdominko
+should have
+13
+ members.
+Checking List for Advisor: ted
+ted already has list, syncing...
+ADV-ted
+currently has
+30
+ members.
+ADV-ted
+should have
+30
+ members.
+Checking List for Advisor: tek
+tek already has list, syncing...
+ADV-tek
+currently has
+71
+ members.
+ADV-tek
+should have
+71
+ members.
+Checking List for Advisor: terric
+terric already has list, syncing...
+ADV-terric
+currently has
+
+ members.
+ADV-terric
+should have
+
+ members.
+Checking List for Advisor: tian
+tian already has list, syncing...
+ADV-tian
+currently has
+39
+ members.
+ADV-tian
+should have
+39
+ members.
+Removing gclarke@wpi0.onmicrosoft.com from ADV-tian
+Adding gclarke@wpi.edu to ADV-tian
+Checking List for Advisor: tilley
+tilley already has list, syncing...
+ADV-tilley
+currently has
+9
+ members.
+ADV-tilley
+should have
+9
+ members.
+Checking List for Advisor: tjgibbs
+tjgibbs already has list, syncing...
+ADV-tjgibbs
+currently has
+
+ members.
+ADV-tjgibbs
+should have
+
+ members.
+Checking List for Advisor: tmsmith
+tmsmith already has list, syncing...
+ADV-tmsmith
+currently has
+25
+ members.
+ADV-tmsmith
+should have
+25
+ members.
+Checking List for Advisor: torbjorn
+torbjorn already has list, syncing...
+ADV-torbjorn
+currently has
+43
+ members.
+ADV-torbjorn
+should have
+43
+ members.
+Checking List for Advisor: treeverts
+treeverts already has list, syncing...
+ADV-treeverts
+currently has
+100
+ members.
+ADV-treeverts
+should have
+100
+ members.
+Checking List for Advisor: tvgarnes
+tvgarnes already has list, syncing...
+ADV-tvgarnes
+currently has
+
+ members.
+ADV-tvgarnes
+should have
+
+ members.
+Checking List for Advisor: uguler
+uguler already has list, syncing...
+ADV-uguler
+currently has
+19
+ members.
+ADV-uguler
+should have
+19
+ members.
+Checking List for Advisor: vassallo
+vassallo already has list, syncing...
+ADV-vassallo
+currently has
+
+ members.
+ADV-vassallo
+should have
+
+ members.
+Checking List for Advisor: vbgrek
+vbgrek already has list, syncing...
+ADV-vbgrek
+currently has
+
+ members.
+ADV-vbgrek
+should have
+
+ members.
+Checking List for Advisor: vernescu
+vernescu already has list, syncing...
+ADV-vernescu
+currently has
+
+ members.
+ADV-vernescu
+should have
+
+ members.
+Checking List for Advisor: weathers
+weathers already has list, syncing...
+ADV-weathers
+currently has
+9
+ members.
+ADV-weathers
+should have
+9
+ members.
+Checking List for Advisor: wrm
+wrm already has list, syncing...
+ADV-wrm
+currently has
+43
+ members.
+ADV-wrm
+should have
+43
+ members.
+Checking List for Advisor: wsoboyejo
+wsoboyejo already has list, syncing...
+ADV-wsoboyejo
+currently has
+3
+ members.
+ADV-wsoboyejo
+should have
+3
+ members.
+Checking List for Advisor: wwong2
+wwong2 already has list, syncing...
+ADV-wwong2
+currently has
+31
+ members.
+ADV-wwong2
+should have
+31
+ members.
+Checking List for Advisor: xhuang
+xhuang already has list, syncing...
+ADV-xhuang
+currently has
+27
+ members.
+ADV-xhuang
+should have
+27
+ members.
+Checking List for Advisor: xkong
+xkong already has list, syncing...
+ADV-xkong
+currently has
+45
+ members.
+ADV-xkong
+should have
+45
+ members.
+Checking List for Advisor: xzeng2
+xzeng2 already has list, syncing...
+ADV-xzeng2
+currently has
+7
+ members.
+ADV-xzeng2
+should have
+7
+ members.
+Checking List for Advisor: yamahmoud
+yamahmoud already has list, syncing...
+ADV-yamahmoud
+currently has
+21
+ members.
+ADV-yamahmoud
+should have
+21
+ members.
+Checking List for Advisor: yanwang
+yanwang already has list, syncing...
+ADV-yanwang
+currently has
+16
+ members.
+ADV-yanwang
+should have
+16
+ members.
+Checking List for Advisor: ydoroz
+ydoroz already has list, syncing...
+ADV-ydoroz
+currently has
+17
+ members.
+ADV-ydoroz
+should have
+17
+ members.
+Checking List for Advisor: yli15
+yli15 already has list, syncing...
+ADV-yli15
+currently has
+42
+ members.
+ADV-yli15
+should have
+42
+ members.
+Checking List for Advisor: yliu11
+yliu11 already has list, syncing...
+ADV-yliu11
+currently has
+57
+ members.
+ADV-yliu11
+should have
+57
+ members.
+Checking List for Advisor: ym
+ym already has list, syncing...
+ADV-ym
+currently has
+2
+ members.
+ADV-ym
+should have
+2
+ members.
+Checking List for Advisor: yzheng8
+yzheng8 already has list, syncing...
+ADV-yzheng8
+currently has
+10
+ members.
+ADV-yzheng8
+should have
+10
+ members.
+Checking List for Advisor: zheyangwu
+zheyangwu already has list, syncing...
+ADV-zheyangwu
+currently has
+8
+ members.
+ADV-zheyangwu
+should have
+8
+ members.
+Checking List for Advisor: zli11
+zli11 already has list, syncing...
+ADV-zli11
+currently has
+16
+ members.
+ADV-zli11
+should have
+16
+ members.
+Checking List for Advisor: zozulya
+zozulya already has list, syncing...
+ADV-zozulya
+currently has
+7
+ members.
+ADV-zozulya
+should have
+7
+ members.
+Checking List for Advisor: ztaillefer
+ztaillefer already has list, syncing...
+ADV-ztaillefer
+currently has
+45
+ members.
+ADV-ztaillefer
+should have
+45
+ members.
+Checking List for Advisor: zyuan2
+zyuan2 already has list, syncing...
+ADV-zyuan2
+currently has
+36
+ members.
+ADV-zyuan2
+should have
+36
+ members.
+Checking List for Advisor: zzhang15
+zzhang15 already has list, syncing...
+ADV-zzhang15
+currently has
+8
+ members.
+ADV-zzhang15
+should have
+8
+ members.
+Checking List for Advisor: zzhang7
+zzhang7 already has list, syncing...
+ADV-zzhang7
+currently has
+6
+ members.
+ADV-zzhang7
+should have
+6
+ members.
+**********************
+Windows PowerShell transcript end
+End time: 20210210082815
+**********************

@@ -1,0 +1,1 @@
+Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=bannerprod.wpi.edu)(PORT=1527)))(CONNECT_DATA=(SERVICE_NAME=prod.admin.wpi.edu)(server=dedicated)));User ID=locksys;Password=ihatecbord
