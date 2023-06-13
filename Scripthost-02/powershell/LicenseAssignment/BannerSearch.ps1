@@ -9,7 +9,7 @@ Import-Module InvokeQuery
 #encrypted oracle connection string
 #$BannerConnectionString = Get-Content $connfile 
 #TNSNames.ora Prod line : PROD=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=bannerprod.wpi.edu)(PORT=1527)))(CONNECT_DATA=(SERVICE_NAME=prod.admin.wpi.edu)(server=dedicated)))
-$BannerConnectionString = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=bannerprod.wpi.edu)(PORT=1527)))(CONNECT_DATA=(SERVICE_NAME=prod.admin.wpi.edu)(server=dedicated)));User ID=locksys;Password=ihatecbord"
+$BannerConnectionString = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=bannerprod.wpi.edu)(PORT=1527)))(CONNECT_DATA=(SERVICE_NAME=prod.admin.wpi.edu)(server=dedicated)));User ID=locksys;Password=**********"
 
 ####################################################
 
@@ -45,7 +45,7 @@ function Invoke-WPIBannerQuery {
     param (
         $Query
     )
-    $BannerConnectionString = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=bannerprod.wpi.edu)(PORT=1527)))(CONNECT_DATA=(SERVICE_NAME=prod.admin.wpi.edu)(server=dedicated)));User ID=locksys;Password=ihatecbord"
+    $BannerConnectionString = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=bannerprod.wpi.edu)(PORT=1527)))(CONNECT_DATA=(SERVICE_NAME=prod.admin.wpi.edu)(server=dedicated)));User ID=locksys;Password=**********"
     Invoke-OracleQuery -Sql $Query -ConnectionString $BannerConnectionString
 }
 
