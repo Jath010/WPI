@@ -1,0 +1,41 @@
+how to input phone numbers
+
+telecomm needs to hand input data, we need to associate that data with a real identifier somewhere
+best thing would be to need to prompt a search to 
+Alternate security answer: create a security group permission on accounts OU that allows for the modification of only the office phone field
+jbjohnston group membership:
+    domain Users
+    G_CCC_Staff
+    U_TS_Access_SysAdmin
+    IT Staff
+    CCC Staff
+    U_APPV_BASIS_Patch_Test
+    U_NetOps_Group
+    U_Employees
+    CLA_Staff_Eligibility
+    U_Staff
+    Cherwell_Technicians
+    accounts
+    SSO_Workday_Production
+    SSO_Percipio
+    AdobeUserSync-Employee
+    iCingaUsers
+    VPN-staff
+    Staff_Synced
+    All Enabled Accounts
+    EIP_CardAccess_Support
+    EIP_Campus_Security_Support
+    EIP_Surveillance_Support
+
+U_TS_Telecomm
+EIP_Telecom_Support
+PM_Telcomm
+TelecommAccessSystems
+iCinga_Telecommunications
+SentryAdmins
+911SecureManagement
+CPPM_Telcomm_Policy_Operators
+
+Something that came to light here is the problem of these groups all being the wrong scopes, I think fixing the scopes won't break anything
+
+U_telcom_ADWrite now exists and can be granted access to Write Telephone Number in the event we want to grant just that permission to telecom people

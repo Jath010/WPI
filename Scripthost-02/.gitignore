@@ -1,0 +1,65 @@
+a# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# It's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Erroneous WPI Stuff #
+######################
+# This is yuge.
+SIS_Import_Beta/
+SIS_Import_Test/
+SIS_Import_Prod/
+# Don't need these.
+Logs/
+Log/
+/OnDemandAssessmentData/*
+# DL-Management Stuff
+Logs-Archive/
+JSONData/
+# Transcript Logs
+Transcripts/
+/powershell\Frame-Capacity\workspace\tempvdilist\tempvdilist
+# We've got a bunch of credential things.
+*.xml
+# Not Needed
+*.csv
+*.tmp
+# Win-TS-Stats Photos
+Logon-Stats-Results/
+*.png
+Change-Summary*
+# Frame Stuff
+tempvdilist/
