@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "General_use_scripts"
+		},
+		{
+			"path": "Scripthost-02"
+		},
+		{
+			"path": "O365"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "c:\\Users\\jmgorham2_prv\\WPI\\General_use_scripts"
+	}
+}
