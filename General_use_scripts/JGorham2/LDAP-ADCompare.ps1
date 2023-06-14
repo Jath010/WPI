@@ -141,7 +141,7 @@ $objClass = $null
 $dn = 'ou=People,dc=wpi,dc=edu'
 $domain = "LDAP://ldap.wpi.edu:389/$($dn)"
 $useragent = 'cn=pam,ou=access,dc=wpi,dc=edu'
-$userpass = '6zWn5nS7'
+$userpass = '********'
 $LDAPSearchString = "(objectclass=Person)"
 $auth = [System.DirectoryServices.AuthenticationTypes]::FastBind
 #$auth = [System.DirectoryServices.AuthenticationTypes]::Secure
